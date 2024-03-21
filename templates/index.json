@@ -46,7 +46,7 @@
         "slideshow-1"
       ],
       "settings": {
-        "section_height": "750px",
+        "section_height": "650px",
         "mobile_height": "auto",
         "parallax": true,
         "style": "dots",
