@@ -126,14 +126,14 @@
   {% comment %} Image markup used when building product grid item via JS {% endcomment %}
   <template id="naturalImageMarkup">
     <div class="image-wrap" style="height: 0;">
-      <image-element data-aos="image-fade-in" data-aos-offset="150">
+      <image-element data-aos="image-fade-in" data-aos-offset="150" class="lazyload">
         <img class="grid-product__image image-element" width height src srcset loading="lazy" alt>
       </image-element>
     </div>
   </template>
   <template id="fixedRatioImageMarkup">
     <div class="grid__image-ratio">
-      <image-element data-aos="image-fade-in" data-aos-offset="150">
+      <image-element data-aos="image-fade-in" data-aos-offset="150" class="lazyload">
         <img class="image-element" width height src srcset loading="lazy" alt>
       </image-element>
     </div>
