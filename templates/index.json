@@ -126,6 +126,7 @@
     },
     "f02024ec-412f-40bf-be63-fdce57feaf75": {
       "type": "background-video-text",
+      "disabled": true,
       "settings": {
         "subtitle": "The Original",
         "title": "COLOMBIAN FAJA",
