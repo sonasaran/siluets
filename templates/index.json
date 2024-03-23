@@ -166,7 +166,7 @@
     "06e503f4-44ee-47c0-80e7-c3fb00c33422": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Marie_Black_Front_e8c63418-0f8b-4e00-beef-ed1c74c2cabc.jpg",
+        "image": "shopify:\/\/shop_images\/Marie_Black_Front_m.jpg",
         "image_mask": "rounded-top",
         "image2_mask": "none",
         "subtitle": "Embrace the Festive Spirit!",
@@ -181,7 +181,7 @@
         "divider": false,
         "top_padding": true,
         "bottom_padding": true,
-        "lazyload_images": false
+        "lazyload_images": true
       }
     },
     "3f7e69c6-843c-494e-abe4-e4e75285a817": {
