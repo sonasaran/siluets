@@ -64,12 +64,13 @@
         "image_HjbH6G",
         "slideshow-1"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
-        "style": "dots",
-        "autoplay": true,
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
         "autoplay_speed": 10,
         "lazyload_images": true
       }
