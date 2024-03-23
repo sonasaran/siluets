@@ -1,1 +1,757 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"top_subheading":"Since 1982","title":"SHAPEWEAR AND LINGERIE","title_size":72,"subheading":"Welcome to Siluet — the intersection of modern design and empowering wear. We believe in celebrating every woman's unique form, offering a blend of comfort, confidence, and sophistication.","link":"shopify:\/\/collections\/shapewear","link_text":"Shop Shapewear","link_2":"shopify:\/\/collections\/post-partum","link_text_2":"SHOP POST PARTUM","color_accent":"#efc0a1","text_align":"vertical-center horizontal-left","image":"shopify:\/\/shop_images\/Portada_Shopify.png","image_mobile":"shopify:\/\/shop_images\/Portada_Facebook_Siluet_b7133b4e-4539-4f7c-bebc-0659e8715960.png","parallax_direction":"top","overlay_opacity":0}},"slideshow-1":{"type":"image","disabled":true,"settings":{"top_subheading":"","title":"Two line\ntitle slide.","title_size":80,"subheading":"And optional subtext","link":"shopify:\/\/collections\/all","link_text":"Shop all","link_2":"shopify:\/\/collections\/all","link_text_2":"Shop all","color_accent":"#000000","text_align":"vertical-bottom horizontal-left","parallax_direction":"top","overlay_opacity":0}}},"block_order":["slideshow-0","slideshow-1"],"settings":{"section_height":"750px","mobile_height":"auto","parallax":true,"style":"dots","autoplay":true,"autoplay_speed":10,"lazyload_images":true}},"cabfe850-912c-4879-877c-0f2235a6dc83":{"type":"advanced-content","blocks":{"template--15258634977314__cabfe850-912c-4879-877c-0f2235a6dc83-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/1_bf0eafcd-17b1-4be9-9c45-bd350e3edb9a.png","link":"","width":"50%","alignment":"center"}},"779618e5-43a0-422b-9652-98f29276ab83":{"type":"liquid","disabled":true,"settings":{"code":"<h2><b>BLACK FRIDAY SALE<\/b><\/h2>\n<h3>40% OFF ON EVERYTHING IN-STORE<\/h3>\n<p>Don't miss out on the magic of Black Friday at Siluets. Elevate your style, embrace comfort, and celebrate YOU! Sale ends November 30th.<br> \n<\/p>\n<h2>HAPPY SHOPPING! 🛒✨<\/h2>","width":"50%","alignment":"center"}}},"block_order":["template--15258634977314__cabfe850-912c-4879-877c-0f2235a6dc83-image-1","779618e5-43a0-422b-9652-98f29276ab83"],"disabled":true,"settings":{"full_width":false,"space_around":true,"lazyload_images":true}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"Define Your Moments with Siluet Shapewear"}},"text":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Embrace your silhouette with Siluet — a brand crafted with precision and passion. Dive into a world where comfort meets contemporary design, ensuring that every woman feels empowered and radiant in her skin.<\/p>"}}},"block_order":["heading","text"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"f02024ec-412f-40bf-be63-fdce57feaf75":{"type":"background-video-text","settings":{"subtitle":"The Original","title":"COLOMBIAN FAJA","text":"<p>Embracing our Colombian heritage, we've redefined everyday wear with innovative shapewear that celebrates women's curves. Since 1982, Siluet has passionately contributed to the worlds of beauty and fashion, committed to empowering women and breaking stereotypes with responsibly crafted, impactful products.<\/p>","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/shapewear","video_url":"https:\/\/youtu.be\/tPNKJp8adqE?si=GAQF7hWcrjmnQQet","color_border":"#f4f4f4","layout":"left","height":650}},"featured-collection":{"type":"featured-collection","settings":{"title":"HOT SALE","home_featured_products":"hot-sale","per_row":4,"rows":1,"mobile_scrollable":false,"view_all":true,"divider":true}},"d9993a41-9f05-460a-87f1-d14f24f33046":{"type":"featured-collection","disabled":true,"settings":{"title":"","home_featured_products":"sexy-lingerie","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"06e503f4-44ee-47c0-80e7-c3fb00c33422":{"type":"text-and-image","settings":{"image":"shopify:\/\/shop_images\/Marie_Black_Front.jpg","image_mask":"rounded-top","image2_mask":"none","subtitle":"Embrace the Festive Spirit!","title":"🌟 Introducing Our Exclusive Seasonal Lingerie Collection","text":"<p>Indulge in the allure of our new line of lingerie because, it's not just any season—it's the Festive Season! Elevate your spirit and ignite your sensuality with our stunning Seasonal Collection.<br\/><br\/>🎁 Why This Festive Season? <br\/><br\/>Because 'tis the season to feel jolly, confident, and absolutely irresistible. Our carefully curated collection of sexy panties is designed to make your festive moments even more special.<br\/><br\/>Shop Now and Unwrap the Seasonal Magic! <\/p>","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/sexy-lingerie","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":false}},"3f7e69c6-843c-494e-abe4-e4e75285a817":{"type":"featured-collection","settings":{"title":"BEST SELLERS","home_featured_products":"best-seller","per_row":4,"rows":1,"mobile_scrollable":false,"view_all":true,"divider":false}},"17311c15-ec6c-4f60-9ba0-ccd28a0fa414":{"type":"featured-collection","settings":{"title":"NEW ARRIVALS","home_featured_products":"new-arrivals","per_row":4,"rows":1,"mobile_scrollable":false,"view_all":true,"divider":false}},"5a843294-d724-4829-826e-b5f2d6c65378":{"type":"rich-text","blocks":{"template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-heading-1":{"type":"heading","settings":{"title":"SHAPEWEAR FOR WOMAN"}},"template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-text-1":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Discover transformative shapewear, meticulously designed for ultimate comfort and unparalleled contouring. Elevate your silhouette, embrace confidence daily, and feel the difference of tailored support.<\/p>"}}},"block_order":["template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-heading-1","template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-text-1"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"promo-grid":{"type":"promo-grid","blocks":{"promo-1":{"type":"advanced","settings":{"subheading":"","heading":"POST PARTUM","textarea":"Provides gentle support,  helping you embrace post-pregnancy changes with confidence.","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/post-partum","cta_text2":"Shop All","cta_link2":"","image":"shopify:\/\/shop_images\/Faja_de_Silicona-3.jpg","video_url":"","width":"33","height":500,"text_size":140,"text_align":"vertical-bottom horizontal-center","color_accent":"#efc0a1","boxed":true,"framed":false}},"promo-0":{"type":"advanced","settings":{"subheading":"","heading":"DAILY USE","textarea":"Perfect blend of comfort and contouring, seamlessly enhancing your everyday look","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/everyday-use","cta_text2":"Shop All","cta_link2":"","image":"shopify:\/\/shop_images\/53342133_VISON.jpg","video_url":"","width":"33","height":800,"text_size":140,"text_align":"vertical-bottom horizontal-center","color_accent":"#efc0a1","boxed":true,"framed":false}},"1fcb3a7d-43af-4abb-ac01-283136b42fb5":{"type":"advanced","settings":{"subheading":"","heading":"POST SURGICAL","textarea":"Designed to offer optimal compression and support, ensuring comfort healthy recovery.","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/post-surgical-line","cta_text2":"Shop All","cta_link2":"","image":"shopify:\/\/shop_images\/Body9.jpg","video_url":"","width":"33","height":500,"text_size":140,"text_align":"vertical-bottom horizontal-center","color_accent":"#efc0a1","boxed":true,"framed":false}}},"block_order":["promo-1","promo-0","1fcb3a7d-43af-4abb-ac01-283136b42fb5"],"settings":{"full_width":false,"gutter_size":7,"space_above":false,"space_below":false,"lazyload_images":true}},"f55fef87-ef27-420d-830b-c95efd98e42d":{"type":"rich-text","blocks":{"template--15258634977314__f55fef87-ef27-420d-830b-c95efd98e42d-heading-1":{"type":"heading","settings":{"title":"Experience the Siluet Difference"}},"c12684b1-4ea4-407e-addc-5b791af43fd6":{"type":"text","settings":{"enlarge_text":true,"text":"<p>We aim to accentuate your natural curves and sculpt your figure with flawless precision. At Siluet, we cater to all preferences and requirements, whether you seek gentle control, post-surgical support, or postpartum comfort, Siluet boasts the perfect garment tailored to you. Discover your ideal Siluet today.<\/p>"}}},"block_order":["template--15258634977314__f55fef87-ef27-420d-830b-c95efd98e42d-heading-1","c12684b1-4ea4-407e-addc-5b791af43fd6"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"featured-collections":{"type":"featured-collections","blocks":{"featured-collections-0":{"type":"collection","settings":{"collection":"latex-waist-cinchers","title":"","focal_point":"center center"}},"featured-collections-1":{"type":"collection","settings":{"collection":"shaper-shorts","title":"","focal_point":"center center"}},"featured-collections-2":{"type":"collection","settings":{"collection":"shapewear-with-latex","title":"","focal_point":"center center"}},"featured-collections-3":{"type":"collection","settings":{"collection":"posture-corrector","title":"","focal_point":"center center"}},"cf5d8a82-4cd2-4b24-8ff3-d55f8914ca5d":{"type":"collection","disabled":true,"settings":{"collection":"shaper-panties","title":"","focal_point":"center center"}}},"block_order":["featured-collections-0","featured-collections-1","featured-collections-2","featured-collections-3","cf5d8a82-4cd2-4b24-8ff3-d55f8914ca5d"],"settings":{"title":"SHAPEWEAR CATEGORIES","divider":true,"per_row":5,"enable_gutter":true}},"0f48a893-746e-4d40-91c0-964fa759f6ee":{"type":"rich-text","blocks":{"template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-heading-1":{"type":"heading","settings":{"title":"BRAS"}},"template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-text-1":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Experience unparalleled comfort with our range of bras. Tailored for every shape, ensuring support and elegance. Discover the perfect fit, and elevate your daily confidence. Redefine luxury and style in intimate wear<\/p>"}}},"block_order":["template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-heading-1","template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-text-1"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"c4e652ab-f856-45ea-9f63-a9d9e221ce9e":{"type":"featured-collections","blocks":{"template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-1":{"type":"collection","settings":{"collection":"bralette","title":"","focal_point":"center center"}},"template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-2":{"type":"collection","settings":{"collection":"underwire-bra","title":"","focal_point":"center center"}}},"block_order":["template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-1","template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-2"],"settings":{"title":"","divider":false,"per_row":2,"enable_gutter":true}},"0dce3a3a-00c3-4c74-9907-00df6a43f62f":{"type":"rich-text","blocks":{"template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-heading-1":{"type":"heading","settings":{"title":"SEXY PANTIES AND UNDERWEAR"}},"template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-text-1":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Elevate Your Daily Comfort and Style with our premium collection of panties and underwear designed for your everyday confidence. Our selection features a variety of comfortable fits, fashion-forward designs, sexy styles and high-quality materials. Browse now to redefine your lingerie wardrobe.<\/p>"}}},"block_order":["template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-heading-1","template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-text-1"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"background-image-text":{"type":"background-image-text","settings":{"subtitle":"Impressive","title":"Lingerie: Bras and Panties","text":"<p>Elevate your allure with our exquisite collection of intimate apparel.<\/p>","button_label":"shop now","button_link":"shopify:\/\/collections\/lingerie","image":"shopify:\/\/shop_images\/2223.jpg","layout":"left","height":750,"framed":false,"parallax":true,"parallax_direction":"top","lazyload_images":true}},"74ef0b31-660b-4e03-a388-5f9bf99f2edb":{"type":"rich-text","settings":{"align_text":"center","narrow_column":true,"divider":false}},"promo-grid2":{"type":"promo-grid","blocks":{"promo2-0":{"type":"advanced","settings":{"subheading":"ULTRA COMFORTABLE","heading":"COLORFUL SEXY PANTIES","textarea":"Infuse a splash of color into your intimate collection with our vibrant, sexy panties designed for the young and spirited.","cta_text1":"SHOP","cta_link1":"shopify:\/\/collections\/panties","cta_text2":"","cta_link2":"","image":"shopify:\/\/shop_images\/promo_eb6ef05a-b124-4a80-a403-691f8417190b.webp","video_url":"","width":"100","height":720,"text_size":120,"text_align":"vertical-center horizontal-center","color_accent":"rgba(0,0,0,0)","boxed":true,"framed":false}}},"block_order":["promo2-0"],"settings":{"full_width":false,"gutter_size":8,"space_above":false,"space_below":false,"lazyload_images":true}},"daf2a2ce-02a0-4387-8165-c5a8e48695f3":{"type":"featured-collections","blocks":{"template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-1":{"type":"collection","settings":{"collection":"leggings","title":"","focal_point":"center center"}},"template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-2":{"type":"collection","settings":{"collection":"hosiery","title":"","focal_point":"center center"}},"template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-3":{"type":"collection","settings":{"collection":"seamless-and-light-compression","title":"","focal_point":"center center"}},"template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-4":{"type":"collection","settings":{"collection":"accesories-ab-boards-boosters-gels-wraps","title":"","focal_point":"center center"}}},"block_order":["template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-1","template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-2","template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-3","template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-4"],"settings":{"title":"OTHER PRODUCTS","divider":false,"per_row":4,"enable_gutter":true}},"895dbf5e-e6df-4629-8df3-ed23f81cb623":{"type":"testimonials","blocks":{"template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>\"I never realized the power of a good bra until I tried the Underwire Bra from this collection. It doesn't just support; it elevates. Paired with the Shaper Panties, I've rediscovered my love for fashion and my own silhouette.\"<\/p>","image":"shopify:\/\/shop_images\/1.jpg","author":"Katie","author_info":"Miami, FL"}},"template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p> \"WAP Leggings are a bold statement, and I'm here for it! They're not just fashion-forward but also incredibly comfortable. I've danced my nights away in them and received so many compliments.\"<\/p>","image":"shopify:\/\/shop_images\/2.jpg","author":"Jasmine","author_info":"Dallas, TX"}},"template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>\"Recovering from surgery was a tough journey, but the Post-Surgical Line Shapewear was a true ally. It offered the support I needed and made me feel beautiful during a vulnerable time.\"<\/p>","image":"shopify:\/\/shop_images\/3.jpg","author":"Naomi","author_info":"Los Angeles, CA"}},"template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>\"The Thong Style Body Shapers are nothing short of a revelation. They're discreet, powerful, and let me wear my favorite dresses with complete confidence. No lines, just sleek elegance.\"<\/p>","image":"shopify:\/\/shop_images\/4.jpg","author":"Sophia","author_info":"Los Angeles, CA"}},"template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>\"I've always been skeptical about shapewear, but the moment I slipped into the Latex Waist Cincher, I was sold! It sculpted my figure beautifully without compromising on comfort. A game-changer for my wardrobe!\"<\/p>","image":"shopify:\/\/shop_images\/5.jpg","author":"Linda","author_info":"New York, MA"}}},"block_order":["template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1","template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2","template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3","template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4","template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5"],"settings":{"title":"TESTIMONIALS","align_text":"center","round_images":true,"color_background":"#f9f9f9","color_text":"#1c1d1d"}},"blog-posts":{"type":"blog-posts","settings":{"title":"OUR BLOG","blog":"news","post_limit":3,"blog_show_tags":false,"blog_show_date":true,"blog_show_comments":false,"blog_show_author":false,"view_all":true,"blog_image_size":"square","divider":false}},"map":{"type":"map","disabled":true,"settings":{"map_title":"Our retail store","address":"<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>","map_address":"301 Front St W, Toronto, ON M5V 2T6","api_key":"","show_button":true,"lazyload_images":true}},"c0a0872a-23ab-4de6-aaa5-ba34a7078ffb":{"type":"text-and-image","disabled":true,"settings":{"image_mask":"none","image2_mask":"none","subtitle":"","title":"Image with text","text":"<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>","button_label":"dfg","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"c2d4cc0f-809f-4750-a05b-4698556afb5f":{"type":"faq","blocks":{"template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-1":{"type":"question","settings":{"title":"1. What materials are used in a waist trainer?","text":"<p>Waist<br\/>trainers typically consist of a combination of materials designed to<br\/>provide compression and support. The specific materials used can vary<br\/>depending on the brand and design of the waist trainer. Here are some<br\/>common materials you might find in a waist trainer:<\/p><p><strong>Latex or Rubber:<\/strong><br\/>Many waist trainers have an outer layer made of latex or rubber,<br\/>which provides firm compression and helps to create the desired<br\/>shape. These materials are known for their elasticity and ability to<br\/>conform to the body.<\/p><p><strong>Cotton or Lycra:<\/strong><br\/>The inner lining of a waist trainer is often made of cotton or Lycra<br\/>fabric. These materials are soft, breathable, and comfortable against<br\/>the skin. They help to wick away moisture and prevent irritation<br\/>during prolonged wear.<\/p><p><strong>Boning:<\/strong><br\/>Waist trainers may contain flexible boning made of materials like<br\/>steel or plastic. Boning is usually inserted into channels or pockets<br\/>within the fabric to provide structure and support. It helps to<br\/>maintain the shape of the waist trainer and prevent it from rolling<br\/>or bunching up.<\/p><p><strong>Hook-and-eye closures:<\/strong><br\/>Many waist trainers feature hook-and-eye closures at the front or<br\/>back, allowing for adjustable sizing and compression levels. These<br\/>closures are typically made of sturdy metal or plastic.<\/p><p><strong>Velcro or Zipper:<\/strong><br\/>Some waist trainers incorporate Velcro straps or zippers for closure.<br\/>These mechanisms offer easy adjustability and secure fastening.<\/p><p>It's important to note that waist trainers can vary in terms of<br\/>construction and materials. It's always a good idea to refer to the<br\/>specific product description or label for accurate information about the materials used in a particular waist trainer.<\/p>"}},"template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-2":{"type":"question","settings":{"title":"2. Are there any side effects to wearing a body shaper?","text":"<p>Wearing a body shaper or waist trainer can have both positive effects, such as temporary shaping and support, as well as potential side effects.<br\/>It's essential to be aware of the following considerations:<\/p><p><strong>Discomfort and Restricted Breathing:<\/strong><br\/>Body shapers can be tight and constricting, which may cause<br\/>discomfort, especially if worn for extended periods. They can<br\/>restrict movement and constrict the diaphragm, leading to shallow breathing or difficulty taking deep breaths.<\/p><p><strong>Digestive Issues:<\/strong><br\/>Wearing a body shaper that compresses the abdomen tightly may put pressure on the stomach and intestines. This pressure can potentially contribute to acid reflux, heartburn, or digestive discomfort.<\/p><p><strong>Skin Irritation:<\/strong><br\/>The friction between the body shaper and the skin can cause<br\/>irritation, redness, and chafing, particularly if the garment is worn<br\/>for long durations or if it doesn't have a breathable lining.<\/p><p><strong>Muscle Weakness and Atrophy:<\/strong><br\/>Constant reliance on a body shaper to provide support can lead to muscle weakness and atrophy over time. The muscles become dependent on the shaper for stability, resulting in reduced muscle tone and<br\/>strength.<\/p><p><strong>Posture and Back Pain:<\/strong><br\/>While some body shapers claim to improve posture, prolonged use may<br\/>lead to a reliance on the garment for support. This can weaken the<br\/>core muscles and contribute to poor posture, muscle imbalances, and back pain when not wearing the shaper.<\/p><p><strong>Reduced Circulation:<\/strong><br\/>Tight body shapers can restrict blood flow, particularly when they<br\/>have boning or are excessively tight. This can potentially cause<br\/>numbness, tingling, or even more severe circulatory issues in some<br\/>cases.<\/p><p>It's important to listen to your body and use body shapers in moderation. If you experience any discomfort or adverse effects, it's advisable to remove the garment and give your body a break. Consulting with a healthcare professional before incorporating body shapers into your routine can provide personalized advice based on your individual circumstances.<\/p>"}},"82e0fc97-404f-463f-936e-5bc6016cf775":{"type":"question","settings":{"title":"3. Can posture correctors be worn all day?","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"10e0b792-5023-4065-9ff4-76ae7327f16d":{"type":"question","settings":{"title":"4. Do body shaper suits provide long-lasting results?","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"e749d959-f5a2-4b8f-9dd4-fb41eb71202e":{"type":"question","settings":{"title":"5. What features make a body shaper suitable for women?","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}}},"block_order":["template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-1","template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-2","82e0fc97-404f-463f-936e-5bc6016cf775","10e0b792-5023-4065-9ff4-76ae7327f16d","e749d959-f5a2-4b8f-9dd4-fb41eb71202e"],"settings":{"title":"FAQs"}}},"order":["slideshow","cabfe850-912c-4879-877c-0f2235a6dc83","rich-text","f02024ec-412f-40bf-be63-fdce57feaf75","featured-collection","d9993a41-9f05-460a-87f1-d14f24f33046","06e503f4-44ee-47c0-80e7-c3fb00c33422","3f7e69c6-843c-494e-abe4-e4e75285a817","17311c15-ec6c-4f60-9ba0-ccd28a0fa414","5a843294-d724-4829-826e-b5f2d6c65378","promo-grid","f55fef87-ef27-420d-830b-c95efd98e42d","featured-collections","0f48a893-746e-4d40-91c0-964fa759f6ee","c4e652ab-f856-45ea-9f63-a9d9e221ce9e","0dce3a3a-00c3-4c74-9907-00df6a43f62f","background-image-text","74ef0b31-660b-4e03-a388-5f9bf99f2edb","promo-grid2","daf2a2ce-02a0-4387-8165-c5a8e48695f3","895dbf5e-e6df-4629-8df3-ed23f81cb623","blog-posts","map","c0a0872a-23ab-4de6-aaa5-ba34a7078ffb","c2d4cc0f-809f-4750-a05b-4698556afb5f"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Since 1982",
+            "title": "SHAPEWEAR AND LINGERIE",
+            "title_size": 72,
+            "subheading": "Welcome to Siluet — the intersection of modern design and empowering wear. We believe in celebrating every woman's unique form, offering a blend of comfort, confidence, and sophistication.",
+            "link": "shopify:\/\/collections\/shapewear",
+            "link_text": "Shop Shapewear",
+            "link_2": "shopify:\/\/collections\/post-partum",
+            "link_text_2": "SHOP POST PARTUM",
+            "color_accent": "#efc0a1",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Portada_Shopify_siluets.png",
+            "image_mobile": "shopify:\/\/shop_images\/Portada_Facebook_Siluet_m.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 10,
+        "lazyload_images": true
+      }
+    },
+    "cabfe850-912c-4879-877c-0f2235a6dc83": {
+      "type": "advanced-content",
+      "blocks": {
+        "779618e5-43a0-422b-9652-98f29276ab83": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2><b>BLACK FRIDAY SALE<\/b><\/h2>\n<h3>40% OFF ON EVERYTHING IN-STORE<\/h3>\n<p>Don't miss out on the magic of Black Friday at Siluets. Elevate your style, embrace comfort, and celebrate YOU! Sale ends November 30th.<br> \n<\/p>\n<h2>HAPPY SHOPPING! 🛒✨<\/h2>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "779618e5-43a0-422b-9652-98f29276ab83"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Define Your Moments with Siluet Shapewear"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Embrace your silhouette with Siluet — a brand crafted with precision and passion. Dive into a world where comfort meets contemporary design, ensuring that every woman feels empowered and radiant in her skin.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "f02024ec-412f-40bf-be63-fdce57feaf75": {
+      "type": "background-video-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "The Original",
+        "title": "COLOMBIAN FAJA",
+        "text": "<p>Embracing our Colombian heritage, we've redefined everyday wear with innovative shapewear that celebrates women's curves. Since 1982, Siluet has passionately contributed to the worlds of beauty and fashion, committed to empowering women and breaking stereotypes with responsibly crafted, impactful products.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/shapewear",
+        "video_url": "https:\/\/youtu.be\/tPNKJp8adqE?si=GAQF7hWcrjmnQQet",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HOT SALE",
+        "home_featured_products": "hot-sale",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "d9993a41-9f05-460a-87f1-d14f24f33046": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "home_featured_products": "sexy-lingerie",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "06e503f4-44ee-47c0-80e7-c3fb00c33422": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Marie_Black_Front_m.jpg",
+        "image_mask": "rounded-top",
+        "image2_mask": "none",
+        "subtitle": "Embrace the Festive Spirit!",
+        "title": "🌟 Introducing Our Exclusive Seasonal Lingerie Collection",
+        "text": "<p>Indulge in the allure of our new line of lingerie because, it's not just any season—it's the Festive Season! Elevate your spirit and ignite your sensuality with our stunning Seasonal Collection.<br\/><br\/>🎁 Why This Festive Season? <br\/><br\/>Because 'tis the season to feel jolly, confident, and absolutely irresistible. Our carefully curated collection of sexy panties is designed to make your festive moments even more special.<br\/><br\/>Shop Now and Unwrap the Seasonal Magic! <\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/sexy-lingerie",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3f7e69c6-843c-494e-abe4-e4e75285a817": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BEST SELLERS",
+        "home_featured_products": "best-seller",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW ARRIVALS",
+        "home_featured_products": "new-arrivals",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "5a843294-d724-4829-826e-b5f2d6c65378": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "SHAPEWEAR FOR WOMAN"
+          }
+        },
+        "template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Discover transformative shapewear, meticulously designed for ultimate comfort and unparalleled contouring. Elevate your silhouette, embrace confidence daily, and feel the difference of tailored support.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-heading-1",
+        "template--15258634977314__5a843294-d724-4829-826e-b5f2d6c65378-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "POST PARTUM",
+            "textarea": "Provides gentle support,  helping you embrace post-pregnancy changes with confidence.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/post-partum",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Faja_de_Silicona-s3.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 140,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#efc0a1",
+            "boxed": true,
+            "framed": false
+          }
+        },
+        "promo-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "DAILY USE",
+            "textarea": "Perfect blend of comfort and contouring, seamlessly enhancing your everyday look",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/everyday-use",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/53342133_VISON_s.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 800,
+            "text_size": 140,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#efc0a1",
+            "boxed": true,
+            "framed": false
+          }
+        },
+        "1fcb3a7d-43af-4abb-ac01-283136b42fb5": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "POST SURGICAL",
+            "textarea": "Designed to offer optimal compression and support, ensuring comfort healthy recovery.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/post-surgical-line",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/Body9_m.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 140,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#efc0a1",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo-1",
+        "promo-0",
+        "1fcb3a7d-43af-4abb-ac01-283136b42fb5"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 7,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "f55fef87-ef27-420d-830b-c95efd98e42d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15258634977314__f55fef87-ef27-420d-830b-c95efd98e42d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Experience the Siluet Difference"
+          }
+        },
+        "c12684b1-4ea4-407e-addc-5b791af43fd6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We aim to accentuate your natural curves and sculpt your figure with flawless precision. At Siluet, we cater to all preferences and requirements, whether you seek gentle control, post-surgical support, or postpartum comfort, Siluet boasts the perfect garment tailored to you. Discover your ideal Siluet today.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__f55fef87-ef27-420d-830b-c95efd98e42d-heading-1",
+        "c12684b1-4ea4-407e-addc-5b791af43fd6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "latex-waist-cinchers",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "shaper-shorts",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "shapewear-with-latex",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "posture-corrector",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "cf5d8a82-4cd2-4b24-8ff3-d55f8914ca5d": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "shaper-panties",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3",
+        "cf5d8a82-4cd2-4b24-8ff3-d55f8914ca5d"
+      ],
+      "settings": {
+        "title": "SHAPEWEAR CATEGORIES",
+        "divider": true,
+        "per_row": 5,
+        "enable_gutter": true
+      }
+    },
+    "0f48a893-746e-4d40-91c0-964fa759f6ee": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "BRAS"
+          }
+        },
+        "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Experience unparalleled comfort with our range of bras. Tailored for every shape, ensuring support and elegance. Discover the perfect fit, and elevate your daily confidence. Redefine luxury and style in intimate wear<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-heading-1",
+        "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "c4e652ab-f856-45ea-9f63-a9d9e221ce9e": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bralette",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "underwire-bra",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-1",
+        "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-2"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 2,
+        "enable_gutter": true
+      }
+    },
+    "0dce3a3a-00c3-4c74-9907-00df6a43f62f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "SEXY PANTIES AND UNDERWEAR"
+          }
+        },
+        "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Elevate Your Daily Comfort and Style with our premium collection of panties and underwear designed for your everyday confidence. Our selection features a variety of comfortable fits, fashion-forward designs, sexy styles and high-quality materials. Browse now to redefine your lingerie wardrobe.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-heading-1",
+        "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Lingerie: Bras and Panties",
+        "text": "<p>Elevate your allure with our exquisite collection of intimate apparel.<\/p>",
+        "button_label": "shop now",
+        "button_link": "shopify:\/\/collections\/lingerie",
+        "image": "shopify:\/\/shop_images\/2223_s.jpg",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "74ef0b31-660b-4e03-a388-5f9bf99f2edb": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "ULTRA COMFORTABLE",
+            "heading": "COLORFUL SEXY PANTIES",
+            "textarea": "Infuse a splash of color into your intimate collection with our vibrant, sexy panties designed for the young and spirited.",
+            "cta_text1": "SHOP",
+            "cta_link1": "shopify:\/\/collections\/panties",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/promo_eb6ef05a_s.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 8,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "daf2a2ce-02a0-4387-8165-c5a8e48695f3": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "leggings",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "hosiery",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "seamless-and-light-compression",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "accesories-ab-boards-boosters-gels-wraps",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-1",
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-2",
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-3",
+        "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-4"
+      ],
+      "settings": {
+        "title": "OTHER PRODUCTS",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "895dbf5e-e6df-4629-8df3-ed23f81cb623": {
+      "type": "testimonials",
+      "blocks": {
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"I never realized the power of a good bra until I tried the Underwire Bra from this collection. It doesn't just support; it elevates. Paired with the Shaper Panties, I've rediscovered my love for fashion and my own silhouette.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/1.jpg",
+            "author": "Katie",
+            "author_info": "Miami, FL"
+          }
+        },
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p> \"WAP Leggings are a bold statement, and I'm here for it! They're not just fashion-forward but also incredibly comfortable. I've danced my nights away in them and received so many compliments.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/2.jpg",
+            "author": "Jasmine",
+            "author_info": "Dallas, TX"
+          }
+        },
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"Recovering from surgery was a tough journey, but the Post-Surgical Line Shapewear was a true ally. It offered the support I needed and made me feel beautiful during a vulnerable time.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "author": "Naomi",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"The Thong Style Body Shapers are nothing short of a revelation. They're discreet, powerful, and let me wear my favorite dresses with complete confidence. No lines, just sleek elegance.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/4.jpg",
+            "author": "Sophia",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"I've always been skeptical about shapewear, but the moment I slipped into the Latex Waist Cincher, I was sold! It sculpted my figure beautifully without compromising on comfort. A game-changer for my wardrobe!\"<\/p>",
+            "image": "shopify:\/\/shop_images\/5.jpg",
+            "author": "Linda",
+            "author_info": "New York, MA"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1",
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2",
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3",
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4",
+        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "OUR BLOG",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "square",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "",
+        "show_button": true,
+        "lazyload_images": true
+      }
+    },
+    "c0a0872a-23ab-4de6-aaa5-ba34a7078ffb": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "dfg",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "c2d4cc0f-809f-4750-a05b-4698556afb5f": {
+      "type": "faq",
+      "blocks": {
+        "template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "1. What materials are used in a waist trainer?",
+            "text": "<p>Waist<br\/>trainers typically consist of a combination of materials designed to<br\/>provide compression and support. The specific materials used can vary<br\/>depending on the brand and design of the waist trainer. Here are some<br\/>common materials you might find in a waist trainer:<\/p><p><strong>Latex or Rubber:<\/strong><br\/>Many waist trainers have an outer layer made of latex or rubber,<br\/>which provides firm compression and helps to create the desired<br\/>shape. These materials are known for their elasticity and ability to<br\/>conform to the body.<\/p><p><strong>Cotton or Lycra:<\/strong><br\/>The inner lining of a waist trainer is often made of cotton or Lycra<br\/>fabric. These materials are soft, breathable, and comfortable against<br\/>the skin. They help to wick away moisture and prevent irritation<br\/>during prolonged wear.<\/p><p><strong>Boning:<\/strong><br\/>Waist trainers may contain flexible boning made of materials like<br\/>steel or plastic. Boning is usually inserted into channels or pockets<br\/>within the fabric to provide structure and support. It helps to<br\/>maintain the shape of the waist trainer and prevent it from rolling<br\/>or bunching up.<\/p><p><strong>Hook-and-eye closures:<\/strong><br\/>Many waist trainers feature hook-and-eye closures at the front or<br\/>back, allowing for adjustable sizing and compression levels. These<br\/>closures are typically made of sturdy metal or plastic.<\/p><p><strong>Velcro or Zipper:<\/strong><br\/>Some waist trainers incorporate Velcro straps or zippers for closure.<br\/>These mechanisms offer easy adjustability and secure fastening.<\/p><p>It's important to note that waist trainers can vary in terms of<br\/>construction and materials. It's always a good idea to refer to the<br\/>specific product description or label for accurate information about the materials used in a particular waist trainer.<\/p>"
+          }
+        },
+        "template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "2. Are there any side effects to wearing a body shaper?",
+            "text": "<p>Wearing a body shaper or waist trainer can have both positive effects, such as temporary shaping and support, as well as potential side effects.<br\/>It's essential to be aware of the following considerations:<\/p><p><strong>Discomfort and Restricted Breathing:<\/strong><br\/>Body shapers can be tight and constricting, which may cause<br\/>discomfort, especially if worn for extended periods. They can<br\/>restrict movement and constrict the diaphragm, leading to shallow breathing or difficulty taking deep breaths.<\/p><p><strong>Digestive Issues:<\/strong><br\/>Wearing a body shaper that compresses the abdomen tightly may put pressure on the stomach and intestines. This pressure can potentially contribute to acid reflux, heartburn, or digestive discomfort.<\/p><p><strong>Skin Irritation:<\/strong><br\/>The friction between the body shaper and the skin can cause<br\/>irritation, redness, and chafing, particularly if the garment is worn<br\/>for long durations or if it doesn't have a breathable lining.<\/p><p><strong>Muscle Weakness and Atrophy:<\/strong><br\/>Constant reliance on a body shaper to provide support can lead to muscle weakness and atrophy over time. The muscles become dependent on the shaper for stability, resulting in reduced muscle tone and<br\/>strength.<\/p><p><strong>Posture and Back Pain:<\/strong><br\/>While some body shapers claim to improve posture, prolonged use may<br\/>lead to a reliance on the garment for support. This can weaken the<br\/>core muscles and contribute to poor posture, muscle imbalances, and back pain when not wearing the shaper.<\/p><p><strong>Reduced Circulation:<\/strong><br\/>Tight body shapers can restrict blood flow, particularly when they<br\/>have boning or are excessively tight. This can potentially cause<br\/>numbness, tingling, or even more severe circulatory issues in some<br\/>cases.<\/p><p>It's important to listen to your body and use body shapers in moderation. If you experience any discomfort or adverse effects, it's advisable to remove the garment and give your body a break. Consulting with a healthcare professional before incorporating body shapers into your routine can provide personalized advice based on your individual circumstances.<\/p>"
+          }
+        },
+        "82e0fc97-404f-463f-936e-5bc6016cf775": {
+          "type": "question",
+          "settings": {
+            "title": "3. Can posture correctors be worn all day?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "10e0b792-5023-4065-9ff4-76ae7327f16d": {
+          "type": "question",
+          "settings": {
+            "title": "4. Do body shaper suits provide long-lasting results?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "e749d959-f5a2-4b8f-9dd4-fb41eb71202e": {
+          "type": "question",
+          "settings": {
+            "title": "5. What features make a body shaper suitable for women?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-1",
+        "template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-2",
+        "82e0fc97-404f-463f-936e-5bc6016cf775",
+        "10e0b792-5023-4065-9ff4-76ae7327f16d",
+        "e749d959-f5a2-4b8f-9dd4-fb41eb71202e"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "cabfe850-912c-4879-877c-0f2235a6dc83",
+    "rich-text",
+    "f02024ec-412f-40bf-be63-fdce57feaf75",
+    "featured-collection",
+    "d9993a41-9f05-460a-87f1-d14f24f33046",
+    "06e503f4-44ee-47c0-80e7-c3fb00c33422",
+    "3f7e69c6-843c-494e-abe4-e4e75285a817",
+    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414",
+    "5a843294-d724-4829-826e-b5f2d6c65378",
+    "promo-grid",
+    "f55fef87-ef27-420d-830b-c95efd98e42d",
+    "featured-collections",
+    "0f48a893-746e-4d40-91c0-964fa759f6ee",
+    "c4e652ab-f856-45ea-9f63-a9d9e221ce9e",
+    "0dce3a3a-00c3-4c74-9907-00df6a43f62f",
+    "background-image-text",
+    "74ef0b31-660b-4e03-a388-5f9bf99f2edb",
+    "promo-grid2",
+    "daf2a2ce-02a0-4387-8165-c5a8e48695f3",
+    "895dbf5e-e6df-4629-8df3-ed23f81cb623",
+    "blog-posts",
+    "map",
+    "c0a0872a-23ab-4de6-aaa5-ba34a7078ffb",
+    "c2d4cc0f-809f-4750-a05b-4698556afb5f"
+  ]
+}
