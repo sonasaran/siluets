@@ -9,9 +9,6 @@
     {{- rule -}}
   {% endfor %}
 {%- if group.user_agent.value == '*' -%}
-    {{ 'Disallow: /*?variant=*' }}
-  {{ 'Disallow: /*?view=*' }}
-  {{ 'Disallow: /*?view=quickview' }}
   {%- endif -%}
   {%- if group.sitemap != blank -%}
     {{ group.sitemap }}
