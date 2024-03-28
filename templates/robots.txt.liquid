@@ -7,6 +7,12 @@
   {% for rule in group.rules %}
     {{- rule -}}
   {% endfor %}
+  {%- if group.user_agent.value == 'Googlebot' -%}
+    {{ 'Disallow:' }}
+  {%- endif -%}
+    {%- if group.user_agent.value == 'Googlebot-image' -%}
+    {{ 'Disallow:' }}
+  {%- endif -%}
   {%- if group.sitemap != blank -%}
     {{ group.sitemap }}
   {%- endif -%}
