@@ -128,6 +128,7 @@
     },
     "06e503f4-44ee-47c0-80e7-c3fb00c33422": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Marie_Black_Front_m.jpg",
         "image_mask": "rounded-top",
