@@ -503,6 +503,7 @@
       "block_order": [
         "promo2-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 8,
