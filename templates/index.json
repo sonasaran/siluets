@@ -68,6 +68,13 @@
             "title": "Control how you look & feel"
           }
         },
+        "text_BxUDGc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -78,6 +85,7 @@
       },
       "block_order": [
         "heading",
+        "text_BxUDGc",
         "text"
       ],
       "settings": {
