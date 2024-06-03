@@ -19,7 +19,7 @@
       "settings": {
         "disable_for_account_holders": true,
         "popup_seconds": 5,
-        "popup_days": 30,
+        "popup_days": 2,
         "popup_title": "Subscribe & get 10% off",
         "popup_text": "<p>Subscribe today and we'll send you a 10% discount code towards your first purchase.<\/p>",
         "popup_image": "shopify:\/\/shop_images\/1_c25cd1ef-8628-4897-9c0a-1edc31ad8169.png",
