@@ -16,18 +16,17 @@
       "block_order": [
         "reminder-block"
       ],
-      "disabled": true,
       "settings": {
         "disable_for_account_holders": true,
         "popup_seconds": 5,
         "popup_days": 30,
-        "popup_title": "Save 10% off your first purchase",
+        "popup_title": "Subscribe & get 10% off",
         "popup_text": "<p>Sign up today and we'll send you a 10% discount code towards your first purchase.<\/p>",
         "popup_image": "shopify:\/\/shop_images\/1_b3f1bf28-2077-4826-aa8a-e966ad4e2381.png",
-        "image_position": "left",
-        "show_social_icons": false,
+        "image_position": "right",
+        "show_social_icons": true,
         "enable_newsletter": true,
-        "button_label": "Optional button",
+        "button_label": "",
         "button_link": ""
       }
     },
