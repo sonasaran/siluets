@@ -1,6 +1,8 @@
-# we use Shopify as our ecommerce platform
+# modificado por sol diaz
 
 User-agent: *
+Sitemap: https://siluets.com/sitemap.xml
+
 Disallow: /a/downloads/-/*
 Disallow: /admin
 Disallow: /cart
@@ -11,6 +13,8 @@ Disallow: /13658685499/checkouts
 Disallow: /13658685499/orders
 Disallow: /carts
 Disallow: /account
+
+
 Disallow: /collections/*sort_by*
 Disallow: /*/collections/*sort_by*
 Disallow: /collections/*+*
@@ -20,12 +24,23 @@ Disallow: /*/collections/*+*
 Disallow: /*/collections/*%2B*
 Disallow: /*/collections/*%2b*
 Disallow: */collections/*filter*&*filter*
+Disallow /collections/vendors*?*q=*
+Disallow /collections/*?*grid_list*
+Disallow /collections/*?*view*
+Disallow /collections/*?*filter*
+Disallow /collections/*?*pf_*
+Disallow /collections/*?*constraint*
+Disallow /collections/types*?*q=*
+
+
 Disallow: /blogs/*+*
 Disallow: /blogs/*%2B*
 Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
+Disallow /blogs/*/tagged/*
+
 Disallow: /*?*oseid=*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
@@ -34,13 +49,14 @@ Disallow: /*/policies/
 Disallow: /*/*?*ls=*&ls=*
 Disallow: /*/*?*ls%3D*%3Fls%3D*
 Disallow: /*/*?*ls%3d*%3fls%3d*
+
 Disallow: /search
 Disallow: /apple-app-site-association
 Disallow: /.well-known/shopify/monorail
 Disallow: /cdn/wpm/*.js
 Disallow: /recommendations/products
 Disallow: /*/recommendations/products
-Sitemap: https://siluets.com/sitemap.xml
+
 
 User-agent: adsbot-google
 Disallow: /checkouts/
