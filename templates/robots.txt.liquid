@@ -8,10 +8,10 @@
     {{- rule -}}
   {% endfor %}
   {%- if group.user_agent.value == 'Googlebot' -%}
-    {{ 'allow:' }}
+    {{ 'disallow:' }}
   {%- endif -%}
     {%- if group.user_agent.value == 'Googlebot-image' -%}
-    {{ 'allow:' }}
+    {{ 'disallow:' }}
   {%- endif -%}
   {%- if group.sitemap != blank -%}
     {{ group.sitemap }}
