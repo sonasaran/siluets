@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -111,6 +120,12 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      },
+      "7262309379246418544": {
+        "type": "shopify:\/\/apps\/swift-speed-optimize\/blocks\/swift-seo\/a10b8339-a20a-4621-a093-32380d49773b",
+        "disabled": false,
+        "settings": {
         }
       }
     }
