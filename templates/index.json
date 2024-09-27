@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -10,14 +19,14 @@
             "title": "SHAPEWEAR AND LINGERIE",
             "title_size": 72,
             "subheading": "Welcome to Siluet — the Best Kept secret by Colombian Women",
-            "link": "shopify:\/\/collections\/shapewear",
+            "link": "shopify://collections/shapewear",
             "link_text": "Shop Shapewear",
-            "link_2": "shopify:\/\/collections\/post-partum",
+            "link_2": "shopify://collections/post-partum",
             "link_text_2": "SHOP POST PARTUM",
             "color_accent": "#efc0a1",
             "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Shhh.png",
-            "image_mobile": "shopify:\/\/shop_images\/Shhh.png",
+            "image": "shopify://shop_images/Shhh.png",
+            "image_mobile": "shopify://shop_images/Shhh.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -43,7 +52,7 @@
           "type": "liquid",
           "disabled": true,
           "settings": {
-            "code": "<h2><b>BLACK FRIDAY SALE<\/b><\/h2>\n<h3>40% OFF ON EVERYTHING IN-STORE<\/h3>\n<p>Don't miss out on the magic of Black Friday at Siluets. Elevate your style, embrace comfort, and celebrate YOU! Sale ends November 30th.<br> \n<\/p>\n<h2>HAPPY SHOPPING! 🛒✨<\/h2>",
+            "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>40% OFF ON EVERYTHING IN-STORE</h3>\n<p>Don't miss out on the magic of Black Friday at Siluets. Elevate your style, embrace comfort, and celebrate YOU! Sale ends November 30th.<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
             "width": "50%",
             "alignment": "center"
           }
@@ -73,14 +82,14 @@
           "disabled": true,
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Welcome to Siluets – your gateway to confidence and curves. At Siluets, we're leaders in modern design and empowering wear, celebrating the diversity of women's bodies. Whether you're exploring Colombian shapewear, seeking a waist trainer for a sleek figure, or addressing postpartum needs with our post-surgical girdles, Siluets has your back. Our shapewear and compression garments are designed for every body type, offering comfort, confidence, and sophistication. From seamless high-waisted girdles to curve-enhancing butt lifters, unlock your inner strength and embrace your unique form with pride. Welcome to Siluets – where confidence meets curves, and empowerment knows no bounds.<\/p><p><\/p>"
+            "text": "<p>Welcome to Siluets – your gateway to confidence and curves. At Siluets, we're leaders in modern design and empowering wear, celebrating the diversity of women's bodies. Whether you're exploring Colombian shapewear, seeking a waist trainer for a sleek figure, or addressing postpartum needs with our post-surgical girdles, Siluets has your back. Our shapewear and compression garments are designed for every body type, offering comfort, confidence, and sophistication. From seamless high-waisted girdles to curve-enhancing butt lifters, unlock your inner strength and embrace your unique form with pride. Welcome to Siluets – where confidence meets curves, and empowerment knows no bounds.</p><p></p>"
           }
         }
       },
@@ -101,10 +110,10 @@
       "settings": {
         "subtitle": "The Original",
         "title": "COLOMBIAN FAJA",
-        "text": "<p>Embracing our Colombian heritage, we've redefined everyday wear with innovative shapewear that celebrates women's curves. Since 1982, Siluet has passionately contributed to the worlds of beauty and fashion, committed to empowering women and breaking stereotypes with responsibly crafted, impactful products.<\/p>",
+        "text": "<p>Embracing our Colombian heritage, we've redefined everyday wear with innovative shapewear that celebrates women's curves. Since 1982, Siluet has passionately contributed to the worlds of beauty and fashion, committed to empowering women and breaking stereotypes with responsibly crafted, impactful products.</p>",
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/shapewear",
-        "video_url": "https:\/\/youtu.be\/tPNKJp8adqE?si=GAQF7hWcrjmnQQet",
+        "button_link": "shopify://collections/shapewear",
+        "video_url": "https://youtu.be/tPNKJp8adqE?si=GAQF7hWcrjmnQQet",
         "color_border": "#f4f4f4",
         "layout": "left",
         "height": 550
@@ -139,14 +148,14 @@
       "type": "text-and-image",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Marie_Black_Front_m.jpg",
+        "image": "shopify://shop_images/Marie_Black_Front_m.jpg",
         "image_mask": "rounded-top",
         "image2_mask": "none",
         "subtitle": "Embrace the Festive Spirit!",
         "title": "🌟 Introducing Our Exclusive Seasonal Lingerie Collection",
-        "text": "<p>Indulge in the allure of our new line of lingerie because, it's not just any season—it's the Festive Season! Elevate your spirit and ignite your sensuality with our stunning Seasonal Collection.<br\/><br\/>🎁 Why This Festive Season? <br\/><br\/>Because 'tis the season to feel jolly, confident, and absolutely irresistible. Our carefully curated collection of sexy panties is designed to make your festive moments even more special.<br\/><br\/>Shop Now and Unwrap the Seasonal Magic! <\/p>",
+        "text": "<p>Indulge in the allure of our new line of lingerie because, it's not just any season—it's the Festive Season! Elevate your spirit and ignite your sensuality with our stunning Seasonal Collection.<br/><br/>🎁 Why This Festive Season? <br/><br/>Because 'tis the season to feel jolly, confident, and absolutely irresistible. Our carefully curated collection of sexy panties is designed to make your festive moments even more special.<br/><br/>Shop Now and Unwrap the Seasonal Magic! </p>",
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/sexy-lingerie",
+        "button_link": "shopify://collections/sexy-lingerie",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "50",
@@ -194,7 +203,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Discover transformative shapewear, meticulously designed for ultimate comfort and unparalleled contouring. Elevate your silhouette, embrace confidence daily, and feel the difference of tailored support.<\/p>"
+            "text": "<p>Discover transformative shapewear, meticulously designed for ultimate comfort and unparalleled contouring. Elevate your silhouette, embrace confidence daily, and feel the difference of tailored support.</p>"
           }
         }
       },
@@ -218,10 +227,10 @@
             "heading": "POST PARTUM",
             "textarea": "Provides gentle support,  helping you embrace post-pregnancy changes with confidence.",
             "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/post-partum",
+            "cta_link1": "shopify://collections/post-partum",
             "cta_text2": "Shop All",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/Faja_de_Silicona-s3.jpg",
+            "image": "shopify://shop_images/Faja_de_Silicona-s3.jpg",
             "video_url": "",
             "width": "33",
             "height": 500,
@@ -239,10 +248,10 @@
             "heading": "DAILY USE",
             "textarea": "Perfect blend of comfort and contouring, seamlessly enhancing your everyday look",
             "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/everyday-use",
+            "cta_link1": "shopify://collections/everyday-use",
             "cta_text2": "Shop All",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/53342133_VISON_s.jpg",
+            "image": "shopify://shop_images/53342133_VISON_s.jpg",
             "video_url": "",
             "width": "33",
             "height": 800,
@@ -260,10 +269,10 @@
             "heading": "POST SURGICAL",
             "textarea": "Designed to offer optimal compression and support, ensuring comfort healthy recovery.",
             "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/post-surgical-line",
+            "cta_link1": "shopify://collections/post-surgical-line",
             "cta_text2": "Shop All",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/Body9_m.jpg",
+            "image": "shopify://shop_images/Body9_m.jpg",
             "video_url": "",
             "width": "33",
             "height": 500,
@@ -301,7 +310,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We aim to accentuate your natural curves and sculpt your figure with flawless precision. At Siluet, we cater to all preferences and requirements, whether you seek gentle control, post-surgical support, or postpartum comfort, Siluet boasts the perfect garment tailored to you. Discover your ideal Siluet today.<\/p>"
+            "text": "<p>We aim to accentuate your natural curves and sculpt your figure with flawless precision. At Siluet, we cater to all preferences and requirements, whether you seek gentle control, post-surgical support, or postpartum comfort, Siluet boasts the perfect garment tailored to you. Discover your ideal Siluet today.</p>"
           }
         }
       },
@@ -387,7 +396,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Experience unparalleled comfort with our range of bras. Tailored for every shape, ensuring support and elegance. Discover the perfect fit, and elevate your daily confidence. Redefine luxury and style in intimate wear<\/p>"
+            "text": "<p>Experience unparalleled comfort with our range of bras. Tailored for every shape, ensuring support and elegance. Discover the perfect fit, and elevate your daily confidence. Redefine luxury and style in intimate wear</p>"
           }
         }
       },
@@ -438,14 +447,14 @@
         "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "SEXY PANTIES AND UNDERWEAR"
+            "title": "PANTIES AND UNDERWEAR"
           }
         },
         "template--15258634977314__0dce3a3a-00c3-4c74-9907-00df6a43f62f-text-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Elevate Your Daily Comfort and Style with our premium collection of panties and underwear designed for your everyday confidence. Our selection features a variety of comfortable fits, fashion-forward designs, sexy styles and high-quality materials. Browse now to redefine your lingerie wardrobe.<\/p>"
+            "text": "<p>Elevate Your Daily Comfort and Style with our premium collection of panties and underwear designed for your everyday confidence. Our selection features a variety of comfortable fits, fashion-forward designs, sexy styles and high-quality materials. Browse now to redefine your lingerie wardrobe.</p>"
           }
         }
       },
@@ -464,10 +473,10 @@
       "settings": {
         "subtitle": "Impressive",
         "title": "Lingerie: Bras and Panties",
-        "text": "<p>Elevate your allure with our exquisite collection of intimate apparel.<\/p>",
+        "text": "<p>Elevate your allure with our exquisite collection of intimate apparel.</p>",
         "button_label": "shop now",
-        "button_link": "shopify:\/\/collections\/lingerie",
-        "image": "shopify:\/\/shop_images\/2223_s.jpg",
+        "button_link": "shopify://collections/lingerie",
+        "image": "shopify://shop_images/2223_s.jpg",
         "layout": "left",
         "height": 750,
         "framed": false,
@@ -494,10 +503,10 @@
             "heading": "COLORFUL SEXY PANTIES",
             "textarea": "Infuse a splash of color into your intimate collection with our vibrant, sexy panties designed for the young and spirited.",
             "cta_text1": "SHOP",
-            "cta_link1": "shopify:\/\/collections\/panties",
+            "cta_link1": "shopify://collections/panties",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/promo_eb6ef05a_s.jpg",
+            "image": "shopify://shop_images/promo_eb6ef05a_s.jpg",
             "video_url": "",
             "width": "100",
             "height": 720,
@@ -577,8 +586,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>\"I have been dealing with this company for quite a few years. They have the best fajas if you want to come down a couple size in your appearance, this is it. Very comfortable and very well made. Excellent customer service\"<\/p>",
-            "image": "shopify:\/\/shop_images\/1.jpg",
+            "testimonial": "<p>\"I have been dealing with this company for quite a few years. They have the best fajas if you want to come down a couple size in your appearance, this is it. Very comfortable and very well made. Excellent customer service\"</p>",
+            "image": "shopify://shop_images/1.jpg",
             "author": "Katie",
             "author_info": "Miami, FL"
           }
@@ -587,7 +596,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p> \"I bought the black and found it to be exactly what I’m looking for in a bra and decided to buy the beige as well. I simply love them.\"<\/p>",
+            "testimonial": "<p> \"I bought the black and found it to be exactly what I’m looking for in a bra and decided to buy the beige as well. I simply love them.\"</p>",
             "author": "Jasmine",
             "author_info": "Dallas, TX"
           }
@@ -596,8 +605,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>\"Recovering from surgery was a tough journey, but the Post-Surgical Line Shapewear was a true ally. It offered the support I needed and made me feel beautiful during a vulnerable time.\"<\/p>",
-            "image": "shopify:\/\/shop_images\/3.jpg",
+            "testimonial": "<p>\"Recovering from surgery was a tough journey, but the Post-Surgical Line Shapewear was a true ally. It offered the support I needed and made me feel beautiful during a vulnerable time.\"</p>",
+            "image": "shopify://shop_images/3.jpg",
             "author": "Naomi",
             "author_info": "Los Angeles, CA"
           }
@@ -606,8 +615,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>\"The Thong Style Body Shapers are nothing short of a revelation. They're discreet, powerful, and let me wear my favorite dresses with complete confidence. No lines, just sleek elegance.\"<\/p>",
-            "image": "shopify:\/\/shop_images\/4.jpg",
+            "testimonial": "<p>\"The Thong Style Body Shapers are nothing short of a revelation. They're discreet, powerful, and let me wear my favorite dresses with complete confidence. No lines, just sleek elegance.\"</p>",
+            "image": "shopify://shop_images/4.jpg",
             "author": "Sophia",
             "author_info": "Los Angeles, CA"
           }
@@ -616,8 +625,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>\"I've always been skeptical about shapewear, but the moment I slipped into the Latex Waist Cincher, I was sold! It sculpted my figure beautifully without compromising on comfort. A game-changer for my wardrobe!\"<\/p>",
-            "image": "shopify:\/\/shop_images\/5.jpg",
+            "testimonial": "<p>\"I've always been skeptical about shapewear, but the moment I slipped into the Latex Waist Cincher, I was sold! It sculpted my figure beautifully without compromising on comfort. A game-changer for my wardrobe!\"</p>",
+            "image": "shopify://shop_images/5.jpg",
             "author": "Linda",
             "author_info": "New York, MA"
           }
@@ -658,7 +667,7 @@
       "disabled": true,
       "settings": {
         "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+        "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
         "map_address": "301 Front St W, Toronto, ON M5V 2T6",
         "api_key": "",
         "show_button": true,
@@ -673,7 +682,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
         "button_label": "dfg",
         "button_link": "",
         "button_style": "primary",
@@ -693,35 +702,35 @@
           "type": "question",
           "settings": {
             "title": "1. What materials are used in a waist trainer?",
-            "text": "<p>Waist<br\/>trainers typically consist of a combination of materials designed to<br\/>provide compression and support. The specific materials used can vary<br\/>depending on the brand and design of the waist trainer. Here are some<br\/>common materials you might find in a waist trainer:<\/p><p><strong>Latex or Rubber:<\/strong><br\/>Many waist trainers have an outer layer made of latex or rubber,<br\/>which provides firm compression and helps to create the desired<br\/>shape. These materials are known for their elasticity and ability to<br\/>conform to the body.<\/p><p><strong>Cotton or Lycra:<\/strong><br\/>The inner lining of a waist trainer is often made of cotton or Lycra<br\/>fabric. These materials are soft, breathable, and comfortable against<br\/>the skin. They help to wick away moisture and prevent irritation<br\/>during prolonged wear.<\/p><p><strong>Boning:<\/strong><br\/>Waist trainers may contain flexible boning made of materials like<br\/>steel or plastic. Boning is usually inserted into channels or pockets<br\/>within the fabric to provide structure and support. It helps to<br\/>maintain the shape of the waist trainer and prevent it from rolling<br\/>or bunching up.<\/p><p><strong>Hook-and-eye closures:<\/strong><br\/>Many waist trainers feature hook-and-eye closures at the front or<br\/>back, allowing for adjustable sizing and compression levels. These<br\/>closures are typically made of sturdy metal or plastic.<\/p><p><strong>Velcro or Zipper:<\/strong><br\/>Some waist trainers incorporate Velcro straps or zippers for closure.<br\/>These mechanisms offer easy adjustability and secure fastening.<\/p><p>It's important to note that waist trainers can vary in terms of<br\/>construction and materials. It's always a good idea to refer to the<br\/>specific product description or label for accurate information about the materials used in a particular waist trainer.<\/p>"
+            "text": "<p>Waist<br/>trainers typically consist of a combination of materials designed to<br/>provide compression and support. The specific materials used can vary<br/>depending on the brand and design of the waist trainer. Here are some<br/>common materials you might find in a waist trainer:</p><p><strong>Latex or Rubber:</strong><br/>Many waist trainers have an outer layer made of latex or rubber,<br/>which provides firm compression and helps to create the desired<br/>shape. These materials are known for their elasticity and ability to<br/>conform to the body.</p><p><strong>Cotton or Lycra:</strong><br/>The inner lining of a waist trainer is often made of cotton or Lycra<br/>fabric. These materials are soft, breathable, and comfortable against<br/>the skin. They help to wick away moisture and prevent irritation<br/>during prolonged wear.</p><p><strong>Boning:</strong><br/>Waist trainers may contain flexible boning made of materials like<br/>steel or plastic. Boning is usually inserted into channels or pockets<br/>within the fabric to provide structure and support. It helps to<br/>maintain the shape of the waist trainer and prevent it from rolling<br/>or bunching up.</p><p><strong>Hook-and-eye closures:</strong><br/>Many waist trainers feature hook-and-eye closures at the front or<br/>back, allowing for adjustable sizing and compression levels. These<br/>closures are typically made of sturdy metal or plastic.</p><p><strong>Velcro or Zipper:</strong><br/>Some waist trainers incorporate Velcro straps or zippers for closure.<br/>These mechanisms offer easy adjustability and secure fastening.</p><p>It's important to note that waist trainers can vary in terms of<br/>construction and materials. It's always a good idea to refer to the<br/>specific product description or label for accurate information about the materials used in a particular waist trainer.</p>"
           }
         },
         "template--15258634977314__c2d4cc0f-809f-4750-a05b-4698556afb5f-question-2": {
           "type": "question",
           "settings": {
             "title": "2. Are there any side effects to wearing a body shaper?",
-            "text": "<p>Wearing a body shaper or waist trainer can have both positive effects, such as temporary shaping and support, as well as potential side effects.<br\/>It's essential to be aware of the following considerations:<\/p><p><strong>Discomfort and Restricted Breathing:<\/strong><br\/>Body shapers can be tight and constricting, which may cause<br\/>discomfort, especially if worn for extended periods. They can<br\/>restrict movement and constrict the diaphragm, leading to shallow breathing or difficulty taking deep breaths.<\/p><p><strong>Digestive Issues:<\/strong><br\/>Wearing a body shaper that compresses the abdomen tightly may put pressure on the stomach and intestines. This pressure can potentially contribute to acid reflux, heartburn, or digestive discomfort.<\/p><p><strong>Skin Irritation:<\/strong><br\/>The friction between the body shaper and the skin can cause<br\/>irritation, redness, and chafing, particularly if the garment is worn<br\/>for long durations or if it doesn't have a breathable lining.<\/p><p><strong>Muscle Weakness and Atrophy:<\/strong><br\/>Constant reliance on a body shaper to provide support can lead to muscle weakness and atrophy over time. The muscles become dependent on the shaper for stability, resulting in reduced muscle tone and<br\/>strength.<\/p><p><strong>Posture and Back Pain:<\/strong><br\/>While some body shapers claim to improve posture, prolonged use may<br\/>lead to a reliance on the garment for support. This can weaken the<br\/>core muscles and contribute to poor posture, muscle imbalances, and back pain when not wearing the shaper.<\/p><p><strong>Reduced Circulation:<\/strong><br\/>Tight body shapers can restrict blood flow, particularly when they<br\/>have boning or are excessively tight. This can potentially cause<br\/>numbness, tingling, or even more severe circulatory issues in some<br\/>cases.<\/p><p>It's important to listen to your body and use body shapers in moderation. If you experience any discomfort or adverse effects, it's advisable to remove the garment and give your body a break. Consulting with a healthcare professional before incorporating body shapers into your routine can provide personalized advice based on your individual circumstances.<\/p>"
+            "text": "<p>Wearing a body shaper or waist trainer can have both positive effects, such as temporary shaping and support, as well as potential side effects.<br/>It's essential to be aware of the following considerations:</p><p><strong>Discomfort and Restricted Breathing:</strong><br/>Body shapers can be tight and constricting, which may cause<br/>discomfort, especially if worn for extended periods. They can<br/>restrict movement and constrict the diaphragm, leading to shallow breathing or difficulty taking deep breaths.</p><p><strong>Digestive Issues:</strong><br/>Wearing a body shaper that compresses the abdomen tightly may put pressure on the stomach and intestines. This pressure can potentially contribute to acid reflux, heartburn, or digestive discomfort.</p><p><strong>Skin Irritation:</strong><br/>The friction between the body shaper and the skin can cause<br/>irritation, redness, and chafing, particularly if the garment is worn<br/>for long durations or if it doesn't have a breathable lining.</p><p><strong>Muscle Weakness and Atrophy:</strong><br/>Constant reliance on a body shaper to provide support can lead to muscle weakness and atrophy over time. The muscles become dependent on the shaper for stability, resulting in reduced muscle tone and<br/>strength.</p><p><strong>Posture and Back Pain:</strong><br/>While some body shapers claim to improve posture, prolonged use may<br/>lead to a reliance on the garment for support. This can weaken the<br/>core muscles and contribute to poor posture, muscle imbalances, and back pain when not wearing the shaper.</p><p><strong>Reduced Circulation:</strong><br/>Tight body shapers can restrict blood flow, particularly when they<br/>have boning or are excessively tight. This can potentially cause<br/>numbness, tingling, or even more severe circulatory issues in some<br/>cases.</p><p>It's important to listen to your body and use body shapers in moderation. If you experience any discomfort or adverse effects, it's advisable to remove the garment and give your body a break. Consulting with a healthcare professional before incorporating body shapers into your routine can provide personalized advice based on your individual circumstances.</p>"
           }
         },
         "82e0fc97-404f-463f-936e-5bc6016cf775": {
           "type": "question",
           "settings": {
             "title": "3. Can posture correctors be worn all day?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
           }
         },
         "10e0b792-5023-4065-9ff4-76ae7327f16d": {
           "type": "question",
           "settings": {
             "title": "4. Do body shaper suits provide long-lasting results?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
           }
         },
         "e749d959-f5a2-4b8f-9dd4-fb41eb71202e": {
           "type": "question",
           "settings": {
             "title": "5. What features make a body shaper suitable for women?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
           }
         }
       },
