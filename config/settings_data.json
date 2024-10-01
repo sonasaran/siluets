@@ -68,9 +68,9 @@
     "cart_type": "drawer",
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/SiluetColombianShapewear",
-    "social_instagram_link": "https:\/\/www.instagram.com\/siluet_colombianshapewear\/",
-    "favicon": "shopify:\/\/shop_images\/Logo_Simbolo_61e4f7ba-0d92-40bb-a78a-a973e752d903.png",
+    "social_facebook_link": "https://www.facebook.com/SiluetColombianShapewear",
+    "social_instagram_link": "https://www.instagram.com/siluet_colombianshapewear/",
+    "favicon": "shopify://shop_images/Logo_Simbolo_61e4f7ba-0d92-40bb-a78a-a973e752d903.png",
     "show_breadcrumbs": true,
     "show_breadcrumbs_collection_link": false,
     "checkout_logo_position": "left",
@@ -97,19 +97,19 @@
     ],
     "blocks": {
       "11684364523414065237": {
-        "type": "shopify:\/\/apps\/instant-checkout-buy-button\/blocks\/instant_checkout\/d8d7320f-e597-4be0-88e4-6838fa244454",
+        "type": "shopify://apps/instant-checkout-buy-button/blocks/instant_checkout/d8d7320f-e597-4be0-88e4-6838fa244454",
         "disabled": true,
         "settings": {
         }
       },
       "6744518860797519131": {
-        "type": "shopify:\/\/apps\/etranslate-translate\/blocks\/floating-selector\/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
+        "type": "shopify://apps/etranslate-translate/blocks/floating-selector/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
         "disabled": true,
         "settings": {
         }
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#202a36",
@@ -123,7 +123,13 @@
         }
       },
       "7262309379246418544": {
-        "type": "shopify:\/\/apps\/swift-speed-optimize\/blocks\/swift-seo\/a10b8339-a20a-4621-a093-32380d49773b",
+        "type": "shopify://apps/swift-speed-optimize/blocks/swift-seo/a10b8339-a20a-4621-a093-32380d49773b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11068332061543699368": {
+        "type": "shopify://apps/booster-page-speed-optimizer/blocks/app-embed/d920faf3-7c60-423a-9636-22618b5561b5",
         "disabled": false,
         "settings": {
         }
@@ -325,7 +331,7 @@
               "settings": {
                 "show_footer_title": true,
                 "title": "Sign up and save",
-                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "container_width": 30
               }
             },
@@ -358,7 +364,7 @@
             "popup_seconds": 5,
             "popup_days": 30,
             "popup_title": "Sign up and save",
-            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>",
             "popup_image": "",
             "enable_newsletter": true,
             "button_label": "Optional button",
@@ -382,7 +388,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -393,7 +399,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -404,7 +410,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
