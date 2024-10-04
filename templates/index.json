@@ -639,6 +639,7 @@
         "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4",
         "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5"
       ],
+      "disabled": true,
       "settings": {
         "title": "TESTIMONIALS",
         "align_text": "center",
