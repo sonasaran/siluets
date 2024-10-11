@@ -16,17 +16,7 @@
   <link rel="dns-prefetch" href="https://maps.googleapis.com">
   <link rel="dns-prefetch" href="https://maps.gstatic.com">
   {% endcomment %}
-<script type="text/javascript">
-  merchantWidgetScript.addEventListener('load', function () {
-    merchantwidget.start({
-      position: 'RIGHT_BOTTOM',
-      sideMargin: 21,
-      bottomMargin: 33,
-      mobileSideMargin: 11,
-      mobileBottomMargin: 19
-    });
-  });
-</script>
+
   {%- if settings.favicon != blank -%}
     <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
   {%- endif -%}
