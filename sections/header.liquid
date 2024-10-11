@@ -146,19 +146,6 @@
                     <span class="icon__fallback-text">{{ 'general.drawers.navigation' | t }}</span>
                   </button>
                 </div>
-<!-- BEGIN MerchantWidget Code -->
-<script id='merchantWidgetScript'
-        src="https://www.gstatic.com/shopping/merchant/merchantwidget.js"
-        defer>
-</script>
-<script type="text/javascript">
-  merchantWidgetScript.addEventListener('load', function () {
-    merchantwidget.start({
-     position: 'RIGHT_BOTTOM'
-   });
-  });
-</script>
-<!-- END MerchantWidget Code -->             
               </div>
 
               {%- if section.settings.main_menu_alignment == 'center-split' -%}
