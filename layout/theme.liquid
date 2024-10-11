@@ -6,6 +6,16 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="google-site-verification" content="5WD-T6Zn0jNzXbiYJawHlBcgWovRi73AmsKqaOyAIAw" />
   <script id='merchantWidgetScript' src="https://www.gstatic.com/shopping/merchant/merchantwidget.js" defer></script>
+  <meta name="theme-color" content="{{ settings.color_button }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+  <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
+  {% comment %}
+  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.gstatic.com">
+  {% endcomment %}
 <script type="text/javascript">
   merchantWidgetScript.addEventListener('load', function () {
     merchantwidget.start({
@@ -17,17 +27,6 @@
     });
   });
 </script>
-  <meta name="theme-color" content="{{ settings.color_button }}">
-  <link rel="canonical" href="{{ canonical_url }}">
-  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-  <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-  <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
-  {% comment %}
-  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
-  <link rel="dns-prefetch" href="https://maps.googleapis.com">
-  <link rel="dns-prefetch" href="https://maps.gstatic.com">
-  {% endcomment %}
-
   {%- if settings.favicon != blank -%}
     <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
   {%- endif -%}
