@@ -5,6 +5,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="google-site-verification" content="5WD-T6Zn0jNzXbiYJawHlBcgWovRi73AmsKqaOyAIAw" />
+  <script id='merchantWidgetScript' src="https://www.gstatic.com/shopping/merchant/merchantwidget.js" defer></script>
+<script type="text/javascript">
+  merchantWidgetScript.addEventListener('load', function () {
+    merchantwidget.start({
+      position: 'LEFT_BOTTOM',
+      sideMargin: 21,
+      bottomMargin: 33,
+      mobileSideMargin: 11,
+      mobileBottomMargin: 19
+    });
+  });
+</script>
   <meta name="theme-color" content="{{ settings.color_button }}">
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
