@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Example</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="An example HTML page with a head section">
+  <meta name="keywords" content="HTML, sample, head section">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="script.js" defer></script>
+  <!-- BEGIN MerchantWidget Code -->
+  <script id='merchantWidgetScript'
+        src="https://www.gstatic.com/shopping/merchant/merchantwidget.js"
+        defer>
+  </script>
+  <script type="text/javascript">
+         merchantWidgetScript.addEventListener('load', function () {
+         merchantwidget.start({});
+      });
+  </script>
+  <!-- END MerchantWidget Code --> // <- put this code in head section
+</head>
+<body>
+    <h1>Welcome to Google </h1>
+    <p>This is a basic HTML document</p>
+    <p>Visit the <a href="https://www.google.com">Google homepage</a>.</p>
+    <script>
+        function greetGoogle() {
+            alert('Hello, Google! Have a great day!');
+        }
+        greetGoogle();
+    </script>
+</body>
+</html>
