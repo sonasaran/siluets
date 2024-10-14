@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -124,6 +124,12 @@
       },
       "7262309379246418544": {
         "type": "shopify://apps/swift-speed-optimize/blocks/swift-seo/a10b8339-a20a-4621-a093-32380d49773b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2611479755219051411": {
+        "type": "shopify://apps/appio-google-reviews/blocks/integration/25437a0d-2feb-4f5f-b07d-e313afa21656",
         "disabled": false,
         "settings": {
         }
