@@ -117,6 +117,7 @@ document.getElementsByTagName('head')[0].appendChild(metaNoIndex);
 {%- endif -%}
 
 	{% include 'autoketing-end-head-seo' %}
+  
   <!-- BEGIN MerchantWidget Code -->
 <script id='merchantWidgetScript'
         src="https://www.gstatic.com/shopping/merchant/merchantwidget.js"
@@ -125,7 +126,7 @@ document.getElementsByTagName('head')[0].appendChild(metaNoIndex);
 <script type="text/javascript">
   merchantWidgetScript.addEventListener('load', function () {
     merchantwidget.start({
-     position: 'RIGHT_BOTTOM'
+     position: "RIGHT_BOTTOM"
    });
   });
 </script>
