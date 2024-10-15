@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -579,75 +579,6 @@
         "enable_gutter": true
       }
     },
-    "895dbf5e-e6df-4629-8df3-ed23f81cb623": {
-      "type": "testimonials",
-      "blocks": {
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>\"I have been dealing with this company for quite a few years. They have the best fajas if you want to come down a couple size in your appearance, this is it. Very comfortable and very well made. Excellent customer service\"</p>",
-            "image": "shopify://shop_images/1.jpg",
-            "author": "Katie",
-            "author_info": "Miami, FL"
-          }
-        },
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p> \"I bought the black and found it to be exactly what I’m looking for in a bra and decided to buy the beige as well. I simply love them.\"</p>",
-            "author": "Jasmine",
-            "author_info": "Dallas, TX"
-          }
-        },
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>\"Recovering from surgery was a tough journey, but the Post-Surgical Line Shapewear was a true ally. It offered the support I needed and made me feel beautiful during a vulnerable time.\"</p>",
-            "image": "shopify://shop_images/3.jpg",
-            "author": "Naomi",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>\"The Thong Style Body Shapers are nothing short of a revelation. They're discreet, powerful, and let me wear my favorite dresses with complete confidence. No lines, just sleek elegance.\"</p>",
-            "image": "shopify://shop_images/4.jpg",
-            "author": "Sophia",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>\"I've always been skeptical about shapewear, but the moment I slipped into the Latex Waist Cincher, I was sold! It sculpted my figure beautifully without compromising on comfort. A game-changer for my wardrobe!\"</p>",
-            "image": "shopify://shop_images/5.jpg",
-            "author": "Linda",
-            "author_info": "New York, MA"
-          }
-        }
-      },
-      "block_order": [
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-1",
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-2",
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-3",
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-4",
-        "template--15258634977314__895dbf5e-e6df-4629-8df3-ed23f81cb623-testimonial-5"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "TESTIMONIALS",
-        "align_text": "center",
-        "round_images": true,
-        "color_background": "#f9f9f9",
-        "color_text": "#1c1d1d"
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
@@ -768,7 +699,6 @@
     "74ef0b31-660b-4e03-a388-5f9bf99f2edb",
     "promo-grid2",
     "daf2a2ce-02a0-4387-8165-c5a8e48695f3",
-    "895dbf5e-e6df-4629-8df3-ed23f81cb623",
     "blog-posts",
     "map",
     "c0a0872a-23ab-4de6-aaa5-ba34a7078ffb",
