@@ -676,6 +676,23 @@
       "settings": {
         "title": "FAQs"
       }
+    },
+    "1728950708b64577e4": {
+      "type": "apps",
+      "blocks": {
+        "ck_google_reviews_google_reviews_3JRKt7": {
+          "type": "shopify://apps/ck-google-reviews/blocks/google_reviews/65a77010-5e58-49de-928f-6b86aa6ecffe",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ck_google_reviews_google_reviews_3JRKt7"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -699,6 +716,7 @@
     "74ef0b31-660b-4e03-a388-5f9bf99f2edb",
     "promo-grid2",
     "daf2a2ce-02a0-4387-8165-c5a8e48695f3",
+    "1728950708b64577e4",
     "blog-posts",
     "map",
     "c0a0872a-23ab-4de6-aaa5-ba34a7078ffb",
