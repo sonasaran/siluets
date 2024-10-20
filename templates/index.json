@@ -499,14 +499,14 @@
         "promo2-0": {
           "type": "advanced",
           "settings": {
-            "subheading": "ULTRA COMFORTABLE",
-            "heading": "COLORFUL SEXY PANTIES",
-            "textarea": "Infuse a splash of color into your intimate collection with our vibrant, sexy panties designed for the young and spirited.",
+            "subheading": "ULTRA LIGHTWEIGHT COMFORT",
+            "heading": "REVOLUTIONARY SILICONE BRA",
+            "textarea": "Experience unmatched comfort and innovation with our silicone bras designed to hydrate and care for your skin while providing a seamless, barely-there feel. Perfect for those who value versatility and effortless style",
             "cta_text1": "SHOP",
-            "cta_link1": "shopify://collections/panties",
+            "cta_link1": "shopify://collections/bras",
             "cta_text2": "",
             "cta_link2": "",
-            "image": "shopify://shop_images/promo_eb6ef05a_s.jpg",
+            "image": "shopify://shop_images/Silicone_Bra_Collection.png",
             "video_url": "",
             "width": "100",
             "height": 720,
@@ -577,6 +577,23 @@
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
+      }
+    },
+    "1728950708b64577e4": {
+      "type": "apps",
+      "blocks": {
+        "ck_google_reviews_google_reviews_3JRKt7": {
+          "type": "shopify://apps/ck-google-reviews/blocks/google_reviews/65a77010-5e58-49de-928f-6b86aa6ecffe",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ck_google_reviews_google_reviews_3JRKt7"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "blog-posts": {
@@ -675,23 +692,6 @@
       ],
       "settings": {
         "title": "FAQs"
-      }
-    },
-    "1728950708b64577e4": {
-      "type": "apps",
-      "blocks": {
-        "ck_google_reviews_google_reviews_3JRKt7": {
-          "type": "shopify://apps/ck-google-reviews/blocks/google_reviews/65a77010-5e58-49de-928f-6b86aa6ecffe",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "ck_google_reviews_google_reviews_3JRKt7"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     }
   },
