@@ -346,7 +346,7 @@
         "featured-collections-2": {
           "type": "collection",
           "settings": {
-            "collection": "shapewear-with-latex",
+            "collection": "shapewear-latex",
             "title": "",
             "focal_point": "center center"
           }
