@@ -18,6 +18,8 @@
   <link rel="dns-prefetch" href="https://maps.googleapis.com">
   <link rel="dns-prefetch" href="https://maps.gstatic.com">
   {% endcomment %}
+
+  
   
   {%- if settings.favicon != blank -%}
     <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
@@ -138,6 +140,28 @@ document.getElementsByTagName('head')[0].appendChild(metaNoIndex);
     document.body.appendChild(ratingBadgeContainer);
     window.gapi.load('ratingbadge', function() {
       window.gapi.ratingbadge.render(ratingBadgeContainer, {"merchant_id": 5341554968});
+    });
+  }
+</script>
+
+  
+<script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
+
+<script>
+  window.renderOptIn = function() {
+    window.gapi.load('surveyoptin', function() {
+      window.gapi.surveyoptin.render(
+        {
+          // REQUIRED FIELDS
+          "merchant_id": 5341554968,
+          "order_id": "ORDER_ID",
+          "email": "CUSTOMER_EMAIL",
+          "delivery_country": "COUNTRY_CODE",
+          "estimated_delivery_date": "YYYY-MM-DD",
+
+          // OPTIONAL FIELDS
+          "products": [{"gtin":"GTIN1"}, {"gtin":"GTIN2"}]
+        });
     });
   }
 </script>
