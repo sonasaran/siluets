@@ -230,6 +230,21 @@ document.getElementsByTagName('head')[0].appendChild(metaNoIndex);
   {%- if canonical_url="*?variant=*" -%}
 <meta name="robots" content="noindex, nofollow">
 {%- endif -%}
-
+<script>
+  document.addEventListener(
+    "click",
+    (e) => {
+      if (
+        e.target.closest("button") &&
+        e.target.innerText.includes("ADD TO CART")
+      ) {
+        gtag("event", "conversion", {
+          send_to: "AW-16789997829/_GSXCM6s0u4ZEIWSjMY-",
+        })
+      }
+    },
+    true,
+  )
+</script>
 </body>
 </html>
