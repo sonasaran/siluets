@@ -49,8 +49,8 @@
           "type": "announcement",
           "settings": {
             "text": "BLACK FRIDAY SALE IS HERE!",
-            "link_text": "",
-            "link": ""
+            "link_text": "Get 30% to 70% OFF across the entire store!",
+            "link": "shopify://collections/clearance-sale"
           }
         },
         "announcement-0": {
