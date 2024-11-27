@@ -51,14 +51,24 @@
         "779618e5-43a0-422b-9652-98f29276ab83": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>40% OFF ON EVERYTHING IN-STORE</h3>\n<p>Don't miss out on the magic of Black Friday at Siluets. Elevate your style, embrace comfort, and celebrate YOU! Sale ends November 30th.<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
-            "width": "50%",
+            "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>Get 30% to 70% OFF across the entire store!</h3>\n<p>Get 30% to 70% OFF across the entire store!<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "image_ahJqTB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Black_Friday_2023.png",
+            "link": "",
+            "width": "66%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "779618e5-43a0-422b-9652-98f29276ab83"
+        "779618e5-43a0-422b-9652-98f29276ab83",
+        "image_ahJqTB"
       ],
       "settings": {
         "full_width": false,
