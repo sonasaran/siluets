@@ -51,14 +51,15 @@
         "image_ahJqTB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Black_Friday_2024.png",
+            "image": "shopify://shop_images/Black_Friday_2024_1.png",
             "link": "shopify://collections/clearance-sale",
-            "width": "66%",
+            "width": "100%",
             "alignment": "center"
           }
         },
         "779618e5-43a0-422b-9652-98f29276ab83": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>Get 30% to 70% OFF across the entire store!</h3>\n<p>Shop now and don’t miss these unbeatable deals!<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
             "width": "25%",
