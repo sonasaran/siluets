@@ -61,7 +61,7 @@
           "type": "liquid",
           "settings": {
             "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>Get 30% to 70% OFF across the entire store!</h3>\n<p>Shop now and don’t miss these unbeatable deals!<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
-            "width": "33%",
+            "width": "25%",
             "alignment": "center"
           }
         }
