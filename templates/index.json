@@ -52,7 +52,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Black_Friday_2024.png",
-            "link": "",
+            "link": "shopify://collections/clearance-sale",
             "width": "66%",
             "alignment": "center"
           }
