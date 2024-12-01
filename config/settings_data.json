@@ -72,7 +72,7 @@
     "social_instagram_link": "https://www.instagram.com/siluets.usa",
     "social_tiktok_link": "https://www.tiktok.com/@siluets",
     "favicon": "shopify://shop_images/Logo_Simbolo_61e4f7ba-0d92-40bb-a78a-a973e752d903.png",
-    "show_breadcrumbs": true,
+    "show_breadcrumbs": false,
     "show_breadcrumbs_collection_link": false,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
@@ -93,27 +93,22 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "11684364523414065237": {
         "type": "shopify://apps/instant-checkout-buy-button/blocks/instant_checkout/d8d7320f-e597-4be0-88e4-6838fa244454",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "6744518860797519131": {
         "type": "shopify://apps/etranslate-translate/blocks/floating-selector/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "7262309379246418544": {
         "type": "shopify://apps/swift-speed-optimize/blocks/swift-seo/a10b8339-a20a-4621-a093-32380d49773b",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
@@ -519,8 +514,7 @@
           "blocks": {
             "1524768779513": {
               "type": "logo",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -540,8 +534,7 @@
           "blocks": {
             "1494292487693": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "1526406521795": {
               "type": "menu",
@@ -568,8 +561,7 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {
-          }
+          "settings": {}
         },
         "collection-header": {
           "type": "collection-header",
