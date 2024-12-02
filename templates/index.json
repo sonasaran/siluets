@@ -187,6 +187,42 @@
         "divider": false
       }
     },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "ULTRA LIGHTWEIGHT COMFORT",
+            "heading": "REVOLUTIONARY BIONIC GEL BRA",
+            "textarea": "Experience unmatched comfort and innovation with our Bionic Gel bras designed to hydrate and care for your skin while providing a seamless, barely-there feel. Perfect for those who value versatility and effortless style",
+            "cta_text1": "SHOP",
+            "cta_link1": "shopify://collections/silicone-bra-silicone-lingerie",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify://shop_images/Bionic_Gel_Lingerie_Collection.png",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 8,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
     "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
       "type": "featured-collection",
       "settings": {
@@ -502,42 +538,6 @@
         "divider": false
       }
     },
-    "promo-grid2": {
-      "type": "promo-grid",
-      "blocks": {
-        "promo2-0": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "ULTRA LIGHTWEIGHT COMFORT",
-            "heading": "REVOLUTIONARY BIONIC GEL BRA",
-            "textarea": "Experience unmatched comfort and innovation with our Bionic Gel bras designed to hydrate and care for your skin while providing a seamless, barely-there feel. Perfect for those who value versatility and effortless style",
-            "cta_text1": "SHOP",
-            "cta_link1": "shopify://collections/silicone-bra-silicone-lingerie",
-            "cta_text2": "",
-            "cta_link2": "",
-            "image": "shopify://shop_images/Bionic_Gel_Lingerie_Collection.png",
-            "video_url": "",
-            "width": "100",
-            "height": 720,
-            "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": true,
-            "framed": false
-          }
-        }
-      },
-      "block_order": [
-        "promo2-0"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 8,
-        "space_above": false,
-        "space_below": false,
-        "lazyload_images": true
-      }
-    },
     "daf2a2ce-02a0-4387-8165-c5a8e48695f3": {
       "type": "featured-collections",
       "blocks": {
@@ -711,6 +711,7 @@
     "d9993a41-9f05-460a-87f1-d14f24f33046",
     "06e503f4-44ee-47c0-80e7-c3fb00c33422",
     "3f7e69c6-843c-494e-abe4-e4e75285a817",
+    "promo-grid2",
     "17311c15-ec6c-4f60-9ba0-ccd28a0fa414",
     "5a843294-d724-4829-826e-b5f2d6c65378",
     "promo-grid",
@@ -721,7 +722,6 @@
     "0dce3a3a-00c3-4c74-9907-00df6a43f62f",
     "background-image-text",
     "74ef0b31-660b-4e03-a388-5f9bf99f2edb",
-    "promo-grid2",
     "daf2a2ce-02a0-4387-8165-c5a8e48695f3",
     "1728950708b64577e4",
     "blog-posts",
