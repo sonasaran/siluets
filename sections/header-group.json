@@ -48,9 +48,9 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "CYBER WEEK SALE IS HERE!",
-            "link_text": "Get 30% to 70% OFF across the entire store!",
-            "link": "shopify://collections/clearance-sale"
+            "text": "MAKE THE SEASON BRIGHTER",
+            "link_text": "Must-haves for everyone",
+            "link": "shopify://collections/shapewear"
           }
         },
         "announcement-0": {
