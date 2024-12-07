@@ -52,7 +52,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Holidays.png",
-            "link": "shopify://collections/clearance-sale",
+            "link": "shopify://collections/shapewear",
             "width": "100%",
             "alignment": "center"
           }
