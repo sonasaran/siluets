@@ -17,7 +17,7 @@
           "settings": {
             "top_subheading": "Since 1982",
             "title": "SHAPEWEAR",
-            "title_size": 73,
+            "title_size": 72,
             "subheading": "Welcome to Siluet — the Best Kept secret by Colombian Women",
             "link": "shopify://collections/shapewear",
             "link_text": "Shop Shapewear",
@@ -51,7 +51,7 @@
         "image_ahJqTB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Cyber_Week.png",
+            "image": "shopify://shop_images/Holidays.png",
             "link": "shopify://collections/clearance-sale",
             "width": "100%",
             "alignment": "center"
