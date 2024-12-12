@@ -78,10 +78,22 @@
       "settings": {
         "announcement_compact": true
       }
+    },
+    "scrolling_text_dpbhkp": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Free shipping within USA -",
+        "link": "",
+        "text_size": 70,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 200
+      }
     }
   },
   "order": [
     "header",
-    "announcement"
+    "announcement",
+    "scrolling_text_dpbhkp"
   ]
 }
