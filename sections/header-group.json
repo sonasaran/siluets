@@ -82,7 +82,7 @@
     "scrolling_text_dpbhkp": {
       "type": "scrolling-text",
       "settings": {
-        "text": "Free shipping within USA -",
+        "text": "Free shipping within USA     -",
         "link": "",
         "text_size": 20,
         "text_spacing": true,
