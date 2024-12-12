@@ -84,7 +84,7 @@
       "settings": {
         "text": "Free shipping within USA -",
         "link": "",
-        "text_size": 70,
+        "text_size": 20,
         "text_spacing": true,
         "direction": "left",
         "speed": 200
