@@ -65,20 +65,11 @@
             "width": "25%",
             "alignment": "center"
           }
-        },
-        "liquid_dQDajU": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div class=\"aod_buynow\"></div>",
-            "width": "100%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
         "image_ahJqTB",
-        "779618e5-43a0-422b-9652-98f29276ab83",
-        "liquid_dQDajU"
+        "779618e5-43a0-422b-9652-98f29276ab83"
       ],
       "settings": {
         "full_width": false,
