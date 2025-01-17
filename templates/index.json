@@ -50,6 +50,7 @@
       "blocks": {
         "image_ahJqTB": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/post_surgical_banner_9ec2176f-a784-4f1b-a334-9e034cbcd794.png",
             "link": "shopify://collections/post-surgery",
