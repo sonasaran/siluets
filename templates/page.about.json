@@ -55,14 +55,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Our Story"
+            "title": "More Than Siluet"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Siluet was founded in 1982 in Colombia with a clear mission: to create high-quality shapewear that empowers women to feel confident and supported every day. What began as a small family-run business quickly grew into a trusted name, celebrated for its innovative designs, exceptional craftsmanship, and dedication to quality.</p><p>From the start, Siluet has been driven by the belief that beauty begins from within and is enhanced by garments that provide the perfect fit and support. Over the years, we have pioneered new designs to meet the evolving needs of our customers, offering products for everyday wear, special occasions, and post-surgical care.</p><p>Now headquartered in the United States, Siluet seamlessly blends Colombian artistry with modern innovation to deliver shapewear that enhances every curve. Our journey continues as we remain committed to helping women embrace their beauty, confidence, and strength.</p><p>At Siluets, our history is a testament to our passion for empowering women and our dedication to creating shapewear that makes a difference.</p>"
+            "text": "<p>While Siluet remains at the heart of what we do, we’re proud to bring you a curated selection of the finest Colombian shapewear brands. Every piece is handpicked to meet the highest standards of quality and design, so you can experience the beauty secrets Colombian women have treasured for generations. Together, we offer a range of shapewear that adapts to your needs and lifestyle.</p>"
           }
         }
       },
@@ -215,8 +215,8 @@
         "image2": "shopify://shop_images/53342133_VISON.jpg",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "More Than Siluet",
-        "text": "<p>While Siluet remains at the heart of what we do, we’re proud to bring you a curated selection of the finest Colombian shapewear brands. Every piece is handpicked to meet the highest standards of quality and design, so you can experience the beauty secrets Colombian women have treasured for generations. Together, we offer a range of shapewear that adapts to your needs and lifestyle.</p>",
+        "title": "Our History",
+        "text": "<p>Siluet was founded in 1982 in Colombia with a clear mission: to create high-quality shapewear that empowers women to feel confident and supported every day. What began as a small family-run business quickly grew into a trusted name, celebrated for its innovative designs, exceptional craftsmanship, and dedication to quality.</p><p>From the start, Siluet has been driven by the belief that beauty begins from within and is enhanced by garments that provide the perfect fit and support. Over the years, we have pioneered new designs to meet the evolving needs of our customers, offering products for everyday wear, special occasions, and post-surgical care.</p><p>Now headquartered in the United States, Siluet seamlessly blends Colombian artistry with modern innovation to deliver shapewear that enhances every curve. Our journey continues as we remain committed to helping women embrace their beauty, confidence, and strength.</p><p>At Siluets, our history is a testament to our passion for empowering women and our dedication to creating shapewear that makes a difference.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
