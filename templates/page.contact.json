@@ -1,1 +1,59 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"Get in touch"}},"text":{"type":"text","settings":{}}},"block_order":["heading","text"],"settings":{}},"form":{"type":"contact-form","settings":{}}},"order":["main","rich-text","form"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_q4m6Tr": {
+          "type": "heading",
+          "settings": {
+            "title": "We’re Here to Help!"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>At Siluets, your satisfaction is our top priority. Whether you have questions about your order, need assistance with our products, or just want to say hello, we’d love to hear from you!</p><p>Here’s how you can reach us:</p><ul><li><strong>Address:</strong> 5930 NW 99 Avenue, B7, Doral, FL 33178</li><li><strong>Phone:</strong> +1 (305) 597 9898</li><li><strong>Email:</strong> <a>ventas@siluets.com</a> (for customer support & general inquiries)</li></ul><p>Need a quick response? Our <strong>live chat</strong> feature on the website is the fastest way to get in touch!</p><p><em>Please note:</em> Returns should not be sent to the above address without prior confirmation from our support team.</p><p>We’re here to make your Siluets experience as seamless as possible. Don’t hesitate to reach out!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q4m6Tr",
+        "text"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich-text",
+    "form"
+  ]
+}
