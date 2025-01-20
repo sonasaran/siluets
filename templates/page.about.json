@@ -62,7 +62,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Siluets has been a trusted name in premium Colombian shapewear for decades. Our mission is to craft high-quality <em>fajas</em> and <em>body shapers</em> that empower women to feel confident, supported, and beautiful every day. Each piece reflects the unmatched craftsmanship of Colombia, combining innovative designs with unparalleled comfort.</p>"
+            "text": "<p>For decades, Siluets has been a trusted name in premium Colombian shapewear. Our mission is simple: to craft high-quality <em>fajas</em> and <em>body shapers</em> that empower women to feel confident, supported, and beautiful every day. Each piece reflects the unmatched craftsmanship of Colombia, combining innovative designs with unparalleled comfort.</p><p>At Siluets, shapewear isn’t just a product—it’s a legacy. From our iconic <em>tummy control shapewear</em> to our innovative <em>post-surgical garments,</em> every design is created to help you look and feel your best.</p>"
           }
         }
       },
@@ -194,9 +194,9 @@
     "88e6ac04-33b8-4b8b-a2b6-69068797e755": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "The Secret of",
-        "title": "Colombian Shapewear",
-        "text": "<p>Celebrated as one of the best-kept beauty secrets, <em>fajas colombianas</em> are known for their ability to sculpt and enhance every curve. At Siluets, we offer <em>waist trainers, bodysuits,</em> and <em>tummy control shapewear</em> tailored for everyday wear, special occasions, and <em>post-surgical recovery.</em> Designed with attention to detail, our shapewear provides a perfect balance of support and style.</p>",
+        "subtitle": "Delivered to You,",
+        "title": "Crafted in Colombia",
+        "text": "<p>Siluets shapewear is proudly made in Colombia, a country renowned for its expertise in creating the world’s finest <em>fajas.</em> With a perfect blend of traditional craftsmanship and modern techniques, our products are made to celebrate your curves while providing the support you need.</p><p>With headquarters in the United States, we ensure fast delivery and exceptional customer support, so you can experience the magic of Colombian shapewear with the convenience of local service.</p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify://shop_images/About_Us.png",
@@ -216,7 +216,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "Designed for Every Body",
-        "text": "<p>Confidence has no limits, and neither should your shapewear. At Siluets, we celebrate diversity by offering products that fit every shape, size, and shade. Whether you need everyday essentials, <em>postpartum shapewear,</em> or specialized <em>compression garments</em> for <em>post-surgical recovery,</em> we have something for you.</p><p>Our shapewear collections are crafted to enhance your natural beauty while delivering comfort and support throughout your day. From smoothing waistlines to sculpting curves, each piece is thoughtfully designed to empower you. Siluets isn’t just about shapewear; it’s about celebrating you.</p>",
+        "text": "<p>Confidence knows no size, shape, or shade—and neither should your shapewear. At Siluets, we embrace diversity by offering collections that celebrate every woman’s unique beauty.</p><p>Whether you’re looking for <em>postpartum shapewear, compression garments</em> for <em>post-surgical recovery,</em> or a <em>waist trainer</em> to sculpt your silhouette, we’ve designed products that fit your needs. Each piece is carefully crafted to provide a perfect balance of comfort, support, and style.</p><p>Our shapewear goes beyond function—it’s a celebration of you. We understand that every body is different, and that’s why our designs prioritize inclusivity and versatility. From smoothing your waistline to enhancing your natural curves, Siluets shapewear is here to empower you every step of the way.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -233,8 +233,8 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "",
-        "title": "Crafted in Colombia, Delivered to You",
-        "text": "<p>Made with care in Colombia and shipped from our headquarters in the United States, Siluets blends traditional expertise with modern convenience. With fast delivery and dedicated support, we bring the beauty of Colombian shapewear directly to your doorstep. Join the Siluets community and discover the confidence you’ve always deserved.</p>",
+        "title": "The Secret of Colombian Shapewear",
+        "text": "<p>For years, <em>fajas colombianas</em> have been one of the best-kept secrets of women seeking confidence and beauty. Known for their ability to shape, sculpt, and support, these garments have become essential for women who value style and performance.</p><p>At Siluets, we’re proud to bring this secret to you. Our shapewear is tailored for everyday wear, special occasions, and post-surgical recovery, offering the comfort and results you deserve. Discover what makes <em>Colombian shapewear</em> the gold standard for women everywhere.</p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify://shop_images/SIL_5881.jpg",
