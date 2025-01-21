@@ -190,6 +190,18 @@
         "divider": false
       }
     },
+    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW ARRIVALS",
+        "home_featured_products": "new-arrivals",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
@@ -224,18 +236,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "NEW ARRIVALS",
-        "home_featured_products": "new-arrivals",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
       }
     },
     "5a843294-d724-4829-826e-b5f2d6c65378": {
@@ -436,12 +436,14 @@
       "blocks": {
         "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "BRAS"
           }
         },
         "template--15258634977314__0f48a893-746e-4d40-91c0-964fa759f6ee-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>Experience unparalleled comfort with our range of bras. Tailored for every shape, ensuring support and elegance. Discover the perfect fit, and elevate your daily confidence. Redefine luxury and style in intimate wear</p>"
@@ -482,6 +484,7 @@
         "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-1",
         "template--15258634977314__c4e652ab-f856-45ea-9f63-a9d9e221ce9e-collection-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "divider": false,
