@@ -52,7 +52,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/post_surgical_banner_9ec2176f-a784-4f1b-a334-9e034cbcd794.png",
-            "link": "shopify://collections/new-arrivals",
+            "link": "shopify://collections/post-surgical-shapewear",
             "width": "100%",
             "alignment": "center"
           }
