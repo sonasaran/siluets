@@ -393,14 +393,16 @@
         },
         "featured-collections-2": {
           "type": "collection",
+          "disabled": true,
           "settings": {
-            "collection": "shapewear-latex",
+            "collection": "",
             "title": "",
             "focal_point": "center center"
           }
         },
         "featured-collections-3": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "posture-corrector",
             "title": "",
@@ -586,6 +588,7 @@
         "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-3",
         "template--15258634977314__daf2a2ce-02a0-4387-8165-c5a8e48695f3-collection-4"
       ],
+      "disabled": true,
       "settings": {
         "title": "OTHER PRODUCTS",
         "divider": false,
