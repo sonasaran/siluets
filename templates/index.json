@@ -121,14 +121,14 @@
         "divider": false
       }
     },
-    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
+    "featured_collection_9tjpTR": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS",
-        "home_featured_products": "new-arrivals",
-        "per_row": 4,
+        "title": "",
+        "home_featured_products": "best-sellers",
+        "per_row": 2,
         "rows": 1,
-        "mobile_scrollable": false,
+        "mobile_scrollable": true,
         "view_all": true,
         "divider": false
       }
@@ -210,18 +210,6 @@
         "lazyload_images": true
       }
     },
-    "featured_collection_9tjpTR": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "best-sellers",
-        "per_row": 2,
-        "rows": 1,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
@@ -256,6 +244,18 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW ARRIVALS",
+        "home_featured_products": "new-arrivals",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
       }
     },
     "5a843294-d724-4829-826e-b5f2d6c65378": {
