@@ -80,7 +80,7 @@
         "mobile_height": "auto",
         "parallax": false,
         "style": "dots",
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 6,
         "lazyload_images": true
       }
