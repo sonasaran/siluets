@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "custom.popups",
   "name": "t:sections.popup-group.name",
@@ -20,9 +29,9 @@
         "disable_for_account_holders": true,
         "popup_seconds": 5,
         "popup_days": 2,
-        "popup_title": "Subscribe & get 10% off",
-        "popup_text": "<p>Subscribe today and we'll send you a 10% discount code towards your first purchase.<\/p>",
-        "popup_image": "shopify:\/\/shop_images\/1_c25cd1ef-8628-4897-9c0a-1edc31ad8169.png",
+        "popup_title": "Get 10% Off – Unlock the Secret",
+        "popup_text": "<p>Discover why Colombian women trust our shapewear for confidence and comfort. Subscribe now to claim your exclusive discount!</p>",
+        "popup_image": "shopify://shop_images/Best-kept_secret_by_Colombian_women_26d11fa9-27c7-4f82-93d0-805bcbdf114c.jpg",
         "image_position": "right",
         "show_social_icons": true,
         "enable_newsletter": true,
@@ -37,11 +46,11 @@
         "enable_test_mode": false,
         "blur_image": false,
         "heading": "Confirm your age",
-        "text": "<p>Are you 18 years old or older?<\/p>",
+        "text": "<p>Are you 18 years old or older?</p>",
         "decline_button_label": "No I'm not",
         "approve_button_label": "Yes I am",
         "decline_heading": "Come back when you're older",
-        "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+        "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
         "return_button_label": "Oops, I entered incorrectly"
       }
     }
