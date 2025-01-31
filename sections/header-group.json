@@ -47,14 +47,16 @@
       "blocks": {
         "announcement-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Enhancing Your Best with Siluet -",
             "link_text": "Must-haves for everyone",
-            "link": "shopify://collections/shapewear"
+            "link": ""
           }
         },
         "announcement-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping within US",
             "link_text": "Fast and reliable support",
@@ -65,7 +67,7 @@
           "type": "announcement",
           "settings": {
             "text": "Hassle-free returns",
-            "link_text": "30-day postage paid returns",
+            "link_text": "14-day postage paid returns",
             "link": ""
           }
         }
