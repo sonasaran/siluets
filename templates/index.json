@@ -101,12 +101,6 @@
             "text": "<p>Transform your confidence with Siluet. Since 1982, we’ve been perfecting the art of Colombian shapewear – designed to sculpt, support, and celebrate every curve. Discover the beauty secrets trusted by women worldwide.</p><p><strong> </strong><a href=\"/collections/post-surgical-shapewear\" title=\"Post-Surgical Shapewear – Compression Garments for Recovery\"><strong>Shop Post-Surgical      </strong></a> | <strong>      </strong><a href=\"/collections/daily-shapewear\" title=\"Daily Shapewear – Everyday Comfort and Confidence\"><strong>Shop Daily Use  </strong></a> | <strong>      </strong><a href=\"/collections/postpartum-shapewear\" title=\"Postpartum Shapewear – Support for New Moms\"><strong>Shop Postpartum </strong></a></p>"
           }
         },
-        "heading_tPMVAW": {
-          "type": "heading",
-          "settings": {
-            "title": "Shop Our Best-Selling Shapewear"
-          }
-        },
         "text": {
           "type": "text",
           "disabled": true,
@@ -119,12 +113,25 @@
       "block_order": [
         "heading",
         "text_BxUDGc",
-        "heading_tPMVAW",
         "text"
       ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false
+      }
+    },
+    "3f7e69c6-843c-494e-abe4-e4e75285a817": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "BEST SELLERS",
+        "home_featured_products": "best-seller",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
         "divider": false
       }
     },
@@ -191,13 +198,11 @@
         "lazyload_images": true
       }
     },
-    "3f7e69c6-843c-494e-abe4-e4e75285a817": {
+    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
       "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [],
       "settings": {
-        "title": "BEST SELLERS",
-        "home_featured_products": "best-seller",
+        "title": "NEW ARRIVALS",
+        "home_featured_products": "new-arrivals",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": false,
@@ -205,12 +210,12 @@
         "divider": false
       }
     },
-    "17311c15-ec6c-4f60-9ba0-ccd28a0fa414": {
+    "featured_collection_9tjpTR": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS",
-        "home_featured_products": "new-arrivals",
-        "per_row": 4,
+        "title": "",
+        "home_featured_products": "best-sellers",
+        "per_row": 2,
         "rows": 1,
         "mobile_scrollable": false,
         "view_all": true,
@@ -729,12 +734,13 @@
   "order": [
     "slideshow",
     "rich-text",
+    "3f7e69c6-843c-494e-abe4-e4e75285a817",
     "f02024ec-412f-40bf-be63-fdce57feaf75",
     "featured-collection",
     "d9993a41-9f05-460a-87f1-d14f24f33046",
     "06e503f4-44ee-47c0-80e7-c3fb00c33422",
-    "3f7e69c6-843c-494e-abe4-e4e75285a817",
     "17311c15-ec6c-4f60-9ba0-ccd28a0fa414",
+    "featured_collection_9tjpTR",
     "promo-grid2",
     "5a843294-d724-4829-826e-b5f2d6c65378",
     "promo-grid",
