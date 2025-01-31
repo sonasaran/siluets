@@ -25,8 +25,8 @@
             "link_text_2": "",
             "color_accent": "#efc0a1",
             "text_align": "vertical-bottom horizontal-right",
-            "image": "shopify://shop_images/Valentine_s_Sale_517e1307-d5dc-4d35-8767-588ae94a3b3a.png",
-            "image_mobile": "shopify://shop_images/Valentine_s_Sale_517e1307-d5dc-4d35-8767-588ae94a3b3a.png",
+            "image": "shopify://shop_images/Valentine_s_Sale.jpg",
+            "image_mobile": "shopify://shop_images/Valentine_s_Sale_9181ccf8-397e-49e3-b27b-da2b94259d4a.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -36,9 +36,9 @@
         "slideshow-0"
       ],
       "settings": {
-        "section_height": "750px",
+        "section_height": "100vh",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "dots",
         "autoplay": false,
         "autoplay_speed": 6,
