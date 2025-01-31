@@ -26,14 +26,52 @@
             "color_accent": "#efc0a1",
             "text_align": "vertical-bottom horizontal-right",
             "image": "shopify://shop_images/Valentine_s_Sale.jpg",
-            "image_mobile": "shopify://shop_images/Valentine_s_Sale_9181ccf8-397e-49e3-b27b-da2b94259d4a.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ANjKGR": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#efc0a1",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify://shop_images/Post-Surgical_Shapewear.jpg",
+            "image_mobile": "shopify://shop_images/Post-Surgical_Shapewear_0cb3cca3-3328-47a6-b594-34302c72504e.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FFXHzj": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 72,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#efc0a1",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify://shop_images/Valentine_s_Sale.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "slideshow-0"
+        "slideshow-0",
+        "image_ANjKGR",
+        "image_FFXHzj"
       ],
       "settings": {
         "section_height": "100vh",
