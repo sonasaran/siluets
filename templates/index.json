@@ -36,12 +36,12 @@
         "slideshow-0"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "750px",
         "mobile_height": "auto",
-        "parallax": false,
-        "style": "minimal",
+        "parallax": true,
+        "style": "dots",
         "autoplay": false,
-        "autoplay_speed": 10,
+        "autoplay_speed": 6,
         "lazyload_images": true
       }
     },
