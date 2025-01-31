@@ -85,39 +85,6 @@
         "lazyload_images": true
       }
     },
-    "cabfe850-912c-4879-877c-0f2235a6dc83": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ahJqTB": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/post_surgical_banner_9ec2176f-a784-4f1b-a334-9e034cbcd794.png",
-            "link": "shopify://collections/post-surgical-shapewear",
-            "width": "100%",
-            "alignment": "center"
-          }
-        },
-        "779618e5-43a0-422b-9652-98f29276ab83": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "code": "<h2><b>BLACK FRIDAY SALE</b></h2>\n<h3>Get 30% to 70% OFF across the entire store!</h3>\n<p>Shop now and don’t miss these unbeatable deals!<br> \n</p>\n<h2>HAPPY SHOPPING! 🛒✨</h2>",
-            "width": "25%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ahJqTB",
-        "779618e5-43a0-422b-9652-98f29276ab83"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -754,7 +721,6 @@
   },
   "order": [
     "slideshow",
-    "cabfe850-912c-4879-877c-0f2235a6dc83",
     "rich-text",
     "f02024ec-412f-40bf-be63-fdce57feaf75",
     "featured-collection",
