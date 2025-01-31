@@ -135,11 +135,10 @@
     },
     "3f7e69c6-843c-494e-abe4-e4e75285a817": {
       "type": "featured-collection",
-      "disabled": true,
       "custom_css": [],
       "settings": {
-        "title": "BEST SELLERS",
-        "home_featured_products": "best-seller",
+        "title": "",
+        "home_featured_products": "other-brands",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": false,
