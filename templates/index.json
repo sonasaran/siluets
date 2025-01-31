@@ -137,11 +137,11 @@
       "type": "featured-collection",
       "custom_css": [],
       "settings": {
-        "title": "",
+        "title": "Explore the Best from Other Brands",
         "home_featured_products": "other-brands",
         "per_row": 2,
         "rows": 1,
-        "mobile_scrollable": false,
+        "mobile_scrollable": true,
         "view_all": true,
         "divider": false
       }
