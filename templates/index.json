@@ -15,18 +15,18 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "Since 1982",
-            "title": "SHAPEWEAR",
+            "top_subheading": "",
+            "title": "",
             "title_size": 72,
-            "subheading": "Welcome to Siluet — the Best Kept secret by Colombian Women",
-            "link": "shopify://collections/siluet-collection",
-            "link_text": "Shop SILUET",
-            "link_2": "shopify://collections/other-brands",
-            "link_text_2": "OTHER BRANDS",
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
             "color_accent": "#efc0a1",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify://shop_images/Shhh.png",
-            "image_mobile": "shopify://shop_images/Shhh.png",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify://shop_images/Valentine_s_Sale_517e1307-d5dc-4d35-8767-588ae94a3b3a.png",
+            "image_mobile": "shopify://shop_images/Valentine_s_Sale_517e1307-d5dc-4d35-8767-588ae94a3b3a.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
