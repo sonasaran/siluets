@@ -289,6 +289,27 @@
     "promo-grid": {
       "type": "promo-grid",
       "blocks": {
+        "1fcb3a7d-43af-4abb-ac01-283136b42fb5": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "POST SURGICAL",
+            "textarea": "Designed to offer optimal compression and support, ensuring comfort healthy recovery.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify://collections/post-surgical-shapewear",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify://shop_images/Body9_m.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 500,
+            "text_size": 140,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "#efc0a1",
+            "boxed": true,
+            "framed": false
+          }
+        },
         "promo-1": {
           "type": "advanced",
           "settings": {
@@ -330,33 +351,12 @@
             "boxed": true,
             "framed": false
           }
-        },
-        "1fcb3a7d-43af-4abb-ac01-283136b42fb5": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "",
-            "heading": "POST SURGICAL",
-            "textarea": "Designed to offer optimal compression and support, ensuring comfort healthy recovery.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify://collections/post-surgical-shapewear",
-            "cta_text2": "Shop All",
-            "cta_link2": "",
-            "image": "shopify://shop_images/Body9_m.jpg",
-            "video_url": "",
-            "width": "33",
-            "height": 500,
-            "text_size": 140,
-            "text_align": "vertical-bottom horizontal-center",
-            "color_accent": "#efc0a1",
-            "boxed": true,
-            "framed": false
-          }
         }
       },
       "block_order": [
+        "1fcb3a7d-43af-4abb-ac01-283136b42fb5",
         "promo-1",
-        "promo-0",
-        "1fcb3a7d-43af-4abb-ac01-283136b42fb5"
+        "promo-0"
       ],
       "settings": {
         "full_width": false,
@@ -734,6 +734,7 @@
   },
   "order": [
     "slideshow",
+    "promo-grid",
     "rich-text",
     "featured_collection_9tjpTR",
     "3f7e69c6-843c-494e-abe4-e4e75285a817",
@@ -744,7 +745,6 @@
     "promo-grid2",
     "17311c15-ec6c-4f60-9ba0-ccd28a0fa414",
     "5a843294-d724-4829-826e-b5f2d6c65378",
-    "promo-grid",
     "f55fef87-ef27-420d-830b-c95efd98e42d",
     "featured-collections",
     "0f48a893-746e-4d40-91c0-964fa759f6ee",
