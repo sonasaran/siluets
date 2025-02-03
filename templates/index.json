@@ -90,12 +90,14 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Colombian Shapewear Secrets Since 1982"
           }
         },
         "text_BxUDGc": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": true,
             "text": "<p>Transform your confidence with Siluet. Since 1982, we’ve been perfecting the art of Colombian shapewear – designed to sculpt, support, and celebrate every curve. Discover the beauty secrets trusted by women worldwide.</p><p><strong> </strong><a href=\"/collections/post-surgical-shapewear\" title=\"Post-Surgical Shapewear – Compression Garments for Recovery\"><strong>Shop Post-Surgical      </strong></a> | <strong>      </strong><a href=\"/collections/daily-shapewear\" title=\"Daily Shapewear – Everyday Comfort and Confidence\"><strong>Shop Daily Use  </strong></a> | <strong>      </strong><a href=\"/collections/postpartum-shapewear\" title=\"Postpartum Shapewear – Support for New Moms\"><strong>Shop Postpartum </strong></a></p>"
