@@ -210,7 +210,7 @@
       "settings": {
         "title": "Explore the Best from Other Brands",
         "home_featured_products": "other-brands",
-        "per_row": 2,
+        "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
