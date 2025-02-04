@@ -184,10 +184,6 @@
         "promo-1",
         "promo-0"
       ],
-      "custom_css": [
-        ".promotion-grid {height: auto; /* Ajustar la altura de forma automática */}",
-        ".promotion-grid > div {min-height: 450px; /* Asegura que todas tengan la misma altura mínima */ display: flex; flex-direction: column; justify-content: space-between;}"
-      ],
       "settings": {
         "full_width": false,
         "gutter_size": 7,
