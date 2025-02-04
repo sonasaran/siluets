@@ -132,7 +132,7 @@
             "text_size": 140,
             "text_align": "vertical-bottom horizontal-center",
             "color_accent": "#efc0a1",
-            "boxed": true,
+            "boxed": false,
             "framed": false
           }
         },
@@ -153,7 +153,7 @@
             "text_size": 140,
             "text_align": "vertical-bottom horizontal-center",
             "color_accent": "#efc0a1",
-            "boxed": true,
+            "boxed": false,
             "framed": false
           }
         },
@@ -174,7 +174,7 @@
             "text_size": 140,
             "text_align": "vertical-bottom horizontal-center",
             "color_accent": "#efc0a1",
-            "boxed": true,
+            "boxed": false,
             "framed": false
           }
         }
