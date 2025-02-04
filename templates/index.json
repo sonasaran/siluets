@@ -85,6 +85,33 @@
         "lazyload_images": true
       }
     },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Find Your Perfect Fit with Siluet"
+          }
+        },
+        "text_BxUDGc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Shaping curves since <strong>1982</strong>! Discover the power of <strong>Colombian shapewear</strong>—our <strong>fajas colombianas</strong> sculpt, smooth, and enhance your silhouette with ultimate comfort. <strong>Confidence starts with Siluet.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_BxUDGc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "promo-grid": {
       "type": "promo-grid",
       "blocks": {
@@ -163,44 +190,6 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
-      }
-    },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Colombian Shapewear Secrets Since 1982"
-          }
-        },
-        "text_BxUDGc": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Transform your confidence with Siluet. Since 1982, we’ve been perfecting the art of Colombian shapewear – designed to sculpt, support, and celebrate every curve. Discover the beauty secrets trusted by women worldwide.</p><p><strong> </strong><a href=\"/collections/post-surgical-shapewear\" title=\"Post-Surgical Shapewear – Compression Garments for Recovery\"><strong>Shop Post-Surgical      </strong></a> | <strong>      </strong><a href=\"/collections/daily-shapewear\" title=\"Daily Shapewear – Everyday Comfort and Confidence\"><strong>Shop Daily Use  </strong></a> | <strong>      </strong><a href=\"/collections/postpartum-shapewear\" title=\"Postpartum Shapewear – Support for New Moms\"><strong>Shop Postpartum </strong></a></p>"
-          }
-        },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": true,
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text_BxUDGc",
-        "text"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
       }
     },
     "featured_collection_9tjpTR": {
@@ -739,8 +728,8 @@
   },
   "order": [
     "slideshow",
-    "promo-grid",
     "rich-text",
+    "promo-grid",
     "featured_collection_9tjpTR",
     "3f7e69c6-843c-494e-abe4-e4e75285a817",
     "f02024ec-412f-40bf-be63-fdce57feaf75",
