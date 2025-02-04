@@ -185,10 +185,8 @@
         "promo-0"
       ],
       "custom_css": [
-        "/* Unificar alturas de las tarjetas */.card-class {display: flex; flex-direction: column; justify-content: space-between; min-height: 450px; /* Ajusta según lo necesario */}",
-        "/* Espaciado uniforme para los botones */.card-class .button-class {padding-top: 10px; padding-bottom: 10px; width: 80%; /* Ajustar el ancho del botón para mobile */ margin: 0 auto; /* Centrar los botones */}",
-        "/* Ajustar tamaño del texto para que no se desborde */.card-class h2 {font-size: 24px; /* Ajustar el tamaño según el diseño */}",
-        ".card-class p {font-size: 16px; line-height: 1.5;}"
+        ".promotion-grid {height: auto; /* Ajustar la altura de forma automática */}",
+        ".promotion-grid > div {min-height: 450px; /* Asegura que todas tengan la misma altura mínima */ display: flex; flex-direction: column; justify-content: space-between;}"
       ],
       "settings": {
         "full_width": false,
