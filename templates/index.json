@@ -184,6 +184,12 @@
         "promo-1",
         "promo-0"
       ],
+      "custom_css": [
+        "/* Estilos forzados */div[class*=\"promotion\"] {display: flex !important; flex-direction: column !important; justify-content: space-between !important; min-height: 450px !important; padding: 15px !important;}",
+        "div[class*=\"promotion\"] button {padding: 10px 20px !important; width: 80% !important; margin: 0 auto !important;}",
+        "div[class*=\"promotion\"] h2 {font-size: 24px !important; text-align: center !important;}",
+        "div[class*=\"promotion\"] p {font-size: 16px !important; line-height: 1.5 !important; text-align: center !important;}"
+      ],
       "settings": {
         "full_width": false,
         "gutter_size": 7,
